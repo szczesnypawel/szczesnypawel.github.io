@@ -1,7 +1,7 @@
 ---
 title: Stabilizing And Testing LLM-based Agents In Less Than 24hrs
 layout: post
-categories: ['stability,llm']
+tags: ['stability', 'llm']
 ---
 
 This guide was originally written for AI enthusiasts participating in the AgentON hackathon, who needed to stabilize and thoroughly test prompts for LLMs under tight time constraints. 
