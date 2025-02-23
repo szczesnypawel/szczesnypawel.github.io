@@ -4,15 +4,38 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I used to work in research and development across multiple domains:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Academic and Industry Research
+- **Structural and Evolutionary Biology**
+  - UCSD
+  - Max-Planck Institute for Developmental Biology
+  - Institute of Biochemistry and Biophysics PAS
+  - University of Warsaw
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- **Biomarker Discovery & Diagnostics**
+  - Institute of Biochemistry and Biophysics PAS
+  - University of Warsaw
 
+- **Pharmaceutical Research**
+  - Drug target selection at Roche
 
-[jekyll-organization]: https://github.com/jekyll
+- **Health Technology**
+  - Nootropics formula development at Nootech
+  - VR therapy applications at 2Eye and Fobos
+
+This research has contributed to approximately 50 scientific publications, which can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=pl).
+
+### Science Policy & Advocacy
+I've been involved in Open Science and Open Access initiatives, running for a few years Open Science Foundation and serving as an advisor to:
+- Polish Academy of Sciences
+- Polish Ministry of Science and Higher Education
+- European Commission
+- UNESCO
+
+### Current Focus
+Currently, I'm dedicated to researching the psychology of large language models. This work led to the foundation of Neurofusion Lab, where we provide specialized services including:
+- Virtual focus groups
+- Population modeling
+- AI-driven behavioral analysis
+
