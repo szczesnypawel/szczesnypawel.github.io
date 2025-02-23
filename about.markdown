@@ -4,38 +4,27 @@ title: About
 permalink: /about/
 ---
 
-I used to work in research and development across multiple domains:
+My journey through science and technology has been driven by a curiosity about complex systems - from molecular biology to human behavior.
 
-### Academic and Industry Research
-- **Structural and Evolutionary Biology**
-  - UCSD
-  - Max-Planck Institute for Developmental Biology
-  - Institute of Biochemistry and Biophysics PAS
-  - University of Warsaw
+### Scientific Foundations
+I built my research foundation across multiple domains:
+- **Structural & Evolutionary Biology** at UCSD, Max-Planck Institute, IBB PAS, and University of Warsaw
+- **Biomarker Discovery & Diagnostics** at IBB PAS and University of Warsaw
+- **Pharmaceutical Research** focusing on drug target selection at Roche
+- **Health Technology** development at Nootech (nootropics) and VR therapy applications (2Eye, Fobos)
 
-- **Biomarker Discovery & Diagnostics**
-  - Institute of Biochemistry and Biophysics PAS
-  - University of Warsaw
+This research phase contributed to approximately 50 scientific publications, available on my [Google Scholar profile](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=pl).
 
-- **Pharmaceutical Research**
-  - Drug target selection at Roche
-
-- **Health Technology**
-  - Nootropics formula development at Nootech
-  - VR therapy applications at 2Eye and Fobos
-
-This research has contributed to approximately 50 scientific publications, which can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=pl).
-
-### Science Policy & Advocacy
-I've been involved in Open Science and Open Access initiatives, running for a few years Open Science Foundation and serving as an advisor to:
+### Building Bridges
+My work in Science Policy & Open Science initiatives reflected a growing recognition that scientific progress requires breaking down institutional barriers. I served as an advisor to:
 - Polish Academy of Sciences
-- Polish Ministry of Science and Higher Education
+- Polish Ministry of Science and Higher Education  
 - European Commission
 - UNESCO
 
-### Current Focus
-Currently, I'm dedicated to researching the psychology of large language models. This work led to the foundation of Neurofusion Lab, where we provide specialized services including:
+### The Next Frontier
+Each previous role revealed a common thread: the need to understand complex human systems. This insight led to founding [Neurofusion Lab](https://neurofusionlab.com), where we apply advanced modeling of large language models to decode human behavior through:
 - Virtual focus groups
-- Population modeling
+- Population modeling  
 - AI-driven behavioral analysis
 
