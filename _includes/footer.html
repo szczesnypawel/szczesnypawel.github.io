@@ -1,0 +1,24 @@
+<footer class="site-footer" style="border-top: 1px solid #e8e8e8; padding-top: 20px; font-size: 0.9em;">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <p>{{ site.title }} | {{ site.description }}</p>
+        {% if site.email %}
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+        {% endif %}
+        
+        <div class="social-links">
+          {% if site.github_username %}
+          <a href="https://github.com/{{ site.github_username }}">GitHub</a>
+          {% endif %}
+          {% if site.twitter_username %}
+          <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+          {% endif %}
+          {% if site.linkedin_username %}
+          <a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> 
