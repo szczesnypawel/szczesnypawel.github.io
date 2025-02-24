@@ -1,7 +1,7 @@
 ---
 title: Notes on Creativity
 layout: post
-categories: ['creativity','systems']
+tags: ['creativity','systems']
 excerpt: Creativity emerges from the interplay between Kahneman's cognitive systems and Csikszentmihalyi's cultural selection.
 ---
 (last updated: 2025-02-24 - WIP)
