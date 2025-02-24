@@ -54,6 +54,7 @@ This cyclical selection - through neural, social, and cultural filters - makes t
 3. **AI "creativity"** remains conceptual masturbation until it passes the laugh test of cultural consensus  
    *Current manifestations:*  
    - LLMs as infinite monkeys with typewriters (but Shakespeare remains elusive)  
+   - Emerging research (see Mollick's [Automating Creativity](https://www.oneusefulthing.org/p/automating-creativity)) shows LLMs can generate ideas surpassing average human performance in controlled tests, though still lacking top-tier novelty - early signs of field acceptance
    - Diffusion models recapitulating training data through "style" (Getty v. Stability AI lawsuits as field rejection)  
    - The stochastic parrot debate (Bender vs. Ng) as modern System 2 critique  
    - DALL-E 3's constrained originality (prompt guards as artificial selection pressure)  
