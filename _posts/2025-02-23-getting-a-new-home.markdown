@@ -9,4 +9,6 @@ After [Freelancing Science](https://freelancingscience.com) closed, I've been se
 
 GitHub feels like a natural home for this kind of writing. It's built around the concept of continuous iteration - files evolve, updates happen, and improvements are made over time.
 
+Another factor that played a role was that I wanted a place that won't make my content unavailable to the public, because I'm not paying for a subscription/domain/etc. 
+
 Let's see how it goes.

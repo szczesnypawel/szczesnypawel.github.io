@@ -51,7 +51,7 @@ This cyclical selection - through neural, social, and cultural filters - makes t
 
 1. **Education systems** that prioritize "originality" over selection pressure produce fragile ideas
 2. **Innovation labs** without field feedback become echo chambers of well-scrubbed nonsense
-3. **AI "creativity"** remains conceptual masturbation until it passes the laugh test of cultural consensus  
+3. **AI "creativity"** remains conceptual masturbation until it passes the laugh test of cultural consensus (hybrid systems are emerging where LLM serves as System 1 and human as System 2, but this is outside of the scope of this part)
    *Current manifestations:*  
    - LLMs as infinite monkeys with typewriters (but Shakespeare remains elusive)  
    - Emerging research (see Mollick's [Automating Creativity](https://www.oneusefulthing.org/p/automating-creativity)) shows LLMs can generate ideas surpassing average human performance in controlled tests, though still lacking top-tier novelty - early signs of field acceptance
