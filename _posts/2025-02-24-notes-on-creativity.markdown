@@ -62,3 +62,26 @@ This cyclical selection - through neural, social, and cultural filters - makes t
 Look at any enduring innovation - from calculus to cubism - and you'll find the same evolutionary pattern, although cycles can have different durations. Leibniz's intuitive calculus (System 1) became robust through Cauchy's epsilon-delta formalization (System 2), then survived Berkeley's "ghosts of departed quantities" critique through engineering adoption (field validation), eventually completing the loop as it arguably reshaped mathematical intuition. Picasso's Demoiselles d'Avignon initially shocked Paris (field rejection) until gradually, Kahnweiler's gallery system helped provide protective isolation for some degree of cultural adaptation.
 
 True creativity isn't about being first. It's about being last - the idea that remains standing after passing through three layers of selection. The rest is noise.
+
+**Recommended Reading:**
+
+In no particular order. 
+
+General frameworks:
+
+1. *Thinking, Fast and Slow* by Daniel Kahneman (System 1 and System 2)
+2. *Creativity: Flow and the Psychology of Discovery and Invention* by Mihaly Csikszentmihalyi (Csikszentmihalyi's concept of creativity)
+3. *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* by Clayton M. Christensen (Innovation)
+4. *The Medici Effect: What Elephants and Epidemics Can Teach Us About Innovation* by Frans Johansson (Innovation)
+5. *Where Good Ideas Come From: The Natural History of Innovation* by Steven Johnson (Innovation again)
+
+Creative process:
+
+1. *The Artist's Way* by Julia Cameron (my favorite)
+2. *The War of Art* by Steven Pressfield
+3. *Big Magic: Creative Living Beyond Fear* by Elizabeth Gilbert
+4. *Impro* by Keith Johnstone (another favorite)
+5. *Ensouling Language* by Stephen Harrod Buhner
+6. *The Creative Act* by Rick Rubin
+7. *The Creative Process: Reflections on Invention in the Arts and Sciences* edited by Brewster Ghiselin 
+
