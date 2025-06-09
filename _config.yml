@@ -32,7 +32,7 @@ social-network-links:
   github: szczesnypawel
   linkedin: pawelpszczesny
 # Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
