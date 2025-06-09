@@ -17,7 +17,7 @@ This explains why seemingly random phrases like "think step by step," "I'll give
 
 ## Introducing the Modulator Framework
 
-I've started using the term "modulator" to describe any text fragment designed to alter the trajectory of how an LLM generates responses. These modulators work because large language models have become surprisingly faithful simulators of human cognition, complete with our psychological quirks and tendencies.
+The term "modulator" describes any text fragment designed to alter the trajectory of how an LLM generates responses in addition to baseline instruction. 
 
 We can categorize these modulators into several types:
 
@@ -46,7 +46,9 @@ We can categorize these modulators into several types:
 - "We're brainstorming creatively"
 - "This is a thought experiment"
 
-There are probably many more categories of modulators - we just haven't explored this space yet.
+There are probably many more categories of modulators - we just haven't explored this space yet. Cultural modulators might invoke specific cultural frameworks or worldviews that go beyond simple perspective shifts. Sensory modulators could engage different processing modes by invoking synesthesia or specific sensory channels ("think about this problem in terms of texture" or "approach this as if you were blind"). Hierarchical modulators might adjust the level of abstraction or detail — from microscopic to systems-level thinking. Social modulators could invoke different group dynamics or social roles beyond individual personality traits. Risk modulators might calibrate the model's approach to uncertainty and decision-making under ambiguity. Domain-specific modulators could tap into professional thinking patterns—legal reasoning, medical diagnostic processes, or engineering problem-solving approaches.
+
+Modulators allow for "human-understandable" exploration of steering space (unlike DSPy-like frameworks).
 
 ## The Machiavelli Experiment: A Case Study
 
