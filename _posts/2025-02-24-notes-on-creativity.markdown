@@ -4,7 +4,7 @@ layout: post
 tags: ['creativity','systems']
 excerpt: Creativity emerges from the interplay between Kahneman's cognitive systems and Csikszentmihalyi's cultural selection.
 ---
-(Last modified: 2025-02-24)
+(Last modified: 2025-06-09)
 
 How about we use a different definition of creativity? It's not a spark, not a gift, not a moment of genius. It's a survival mechanism. When Daniel Kahneman's intuitive System 1 mates with his analytical System 2 under the watchful eye of Csikszentmihalyi's cultural gatekeepers, what emerges isn't some romantic "aha moment" but a robust idea that can withstand the marketplace of reality.
 

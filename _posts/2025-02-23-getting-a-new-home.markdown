@@ -4,7 +4,7 @@ layout: post
 categories: ['admin']
 excerpt: After Freelancing Science closed, I've been searching for a new platform to share my thoughts. Traditional blogging platforms didn't quite fit since they're designed for publishing finished articles. My thoughts, however, are always evolving.
 ---
-(Last modified: 2025-02-24)
+(Last modified: 2025-06-09)
 
 
 After [Freelancing Science](https://freelancingscience.com) closed, I've been searching for a new platform to share my thoughts. Traditional blogging didn't quite fit anymore since they're designed for publishing finished articles. My thoughts, however, are always evolving...
