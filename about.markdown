@@ -4,16 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My journey through science and technology has been driven by a curiosity about complex systems - from molecular biology to human behavior.
+My journey through science and technology has been driven by a curiosity about complex systems - from molecular biology to human behavior. I'm a biologist (PhD) and a psychologist (second major).
 
 ### Scientific Foundations
 I built my research foundation across multiple domains:
 - **Structural & Evolutionary Biology** at UCSD, Max-Planck Institute, IBB PAS, and University of Warsaw
 - **Biomarker Discovery & Diagnostics** at IBB PAS and University of Warsaw
-- **Pharmaceutical Research** focusing on drug target selection at Roche
+- **Pharmaceutical Research** focusing on drug target selection at Roche/Genentech
 - **Health Technology** development at Nootech (nootropics) and VR therapy applications (2Eye, Fobos)
-
-This research phase contributed to approximately 50 scientific publications, available on my [Google Scholar profile](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=pl).
 
 ### Building Bridges
 My work in Science Policy & Open Science initiatives reflected a growing recognition that scientific progress requires breaking down institutional barriers. I served as an advisor to:
