@@ -38,16 +38,17 @@ def update_last_modified_in_file(file_path, last_modified_date):
         content = f.read()
     
     # Pattern to match existing "last updated" or "Last modified" lines
-    # This handles variations like:
-    # (last updated: 2025-02-24 - WIP)
-    # (Last modified: 2025-02-24)
-    # Last modified: 2025-02-24
-    last_modified_pattern = r'\(?(last updated|Last modified):\s*\d{4}-\d{2}-\d{2}[^)]*\)?'
+    last_modified_pattern = r'\(?(last updated|Last modified):\s*(\d{4}-\d{2}-\d{2})[^)]*\)?'
     
     new_last_modified_line = f"(Last modified: {last_modified_date})"
     
     # Check if there's already a last modified line
-    if re.search(last_modified_pattern, content, re.IGNORECASE):
+    match = re.search(last_modified_pattern, content, re.IGNORECASE)
+    if match:
+        existing_date = match.group(2)
+        if existing_date == last_modified_date:
+            print(f"Skipping {file_path} - date unchanged ({last_modified_date})")
+            return
         # Replace existing line
         content = re.sub(last_modified_pattern, new_last_modified_line, content, flags=re.IGNORECASE)
         print(f"Updated existing last modified date in {file_path}")
