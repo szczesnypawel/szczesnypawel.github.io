@@ -83,9 +83,17 @@ Even a simple instruction like "summarize this text" can mean vastly different t
 
 ## The Control Problem
 
-As we develop more sophisticated ways to psychologically steer AI systems, we're simultaneously creating the tools for more precise control and potentially making ourselves more dependent on AI as an intermediary layer between us and reality. Especially, if the modulators are generated on the fly. The question arises: who remains in control?
+We're entering an era where AI systems increasingly manage our perception of reality. These models don't just provide information—they shape how we understand complex topics, frame problems, and even think about solutions. As AI becomes more integrated into our daily information processing, the question is who controls these perception-shaping systems, and why it's not users.
 
-Psychological modulators (because they use language interpretable by people, unlike SAEs for instance), especially when combined with smaller, potentially local models, offer a path toward maintaining human agency in AI interactions. Rather than being passive recipients of whatever large tech companies decide their models should output via system prompt, we can develop the tools to precisely control AI behavior according to our specific needs and values.
+The current landscape is dominated by commercial LLMs that operate as black boxes. Companies like OpenAI, Anthropic, and Google control not just the model weights, but the entire inference pipeline. Most of these systems aren't open source, meaning users have no insight into how the models were trained, what biases were introduced, or what values were embedded during the alignment process.
+
+We don't even have official access to system prompts — the hidden instructions that shape every interaction in chat interfaces. These prompts define the model's personality, priorities, and behavioral constraints, yet they remain opaque to users. 
+
+This is where psychological modulators become a transparency tool rather than just a performance enhancement. Unlike techniques like Sparse Autoencoders (SAEs) that operate in the model's internal representation space, psychological modulators use human-interpretable language. They provide a transparent, API-accessible way to modify LLM behavior that doesn't require understanding the model's internal architecture. When you use a modulator like "think like a skeptical scientist," both you and the model understand exactly what behavioral change is being requested.
+
+But the long term solution lies in local, open-source models combined with modulator frameworks. Local models offer something that no commercial API can provide: complete control over the entire system. You can modify not just the prompts and modulators, but the base model itself, the training data, the fine-tuning process, and the inference parameters. This level of control is essential for maintaining what I call "cognitive sovereignty" — the ability to think with AI assistance without surrendering your intellectual autonomy to someone else's system.
+
+Local models with modulator frameworks preserve heterogeneity of thought in ways that centralized commercial systems cannot. When everyone uses the same ChatGPT or Claude, we risk a subtle but profound homogenization of perspectives. Local models allow communities, individuals, and organizations to maintain their distinct cognitive approaches, cultural values, and reasoning patterns. A research group can finetune models to think like domain experts. A cultural community can preserve its unique worldview in AI systems. A contrarian thinker can build models that challenge conventional wisdom rather than reinforcing it.
 
 But will it happen?
 
