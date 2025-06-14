@@ -4,7 +4,7 @@ layout: post
 tags: ['AI','Psychology']
 excerpt: Simulating human behavior is an universal LLM steering strategy.
 ---
-(Last modified: 2025-06-09)
+(Last modified: 2025-06-14)
 
 
 Language models trained on human-generated text have developed an unexpected capability: they can simulate human psychological processes well enough that psychological techniques can be used to control their behavior. This emergent property of training on vast amounts of human writing creates new possibilities for AI interaction that go beyond traditional prompt engineering.
