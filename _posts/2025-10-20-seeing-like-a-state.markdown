@@ -1,8 +1,8 @@
 ---
-title: Why "Seeing Like a State" Still Matters in the Age of AI
+title: Why 'Seeing Like a State' Still Matters in the Age of AI
 layout: post
 tags: ['legibility', 'illegibility', 'systems']
-excerpt: Tech systems, just like states, look for things that they can measure - and ignore what they can’t. First, they learn which kinds of work are "legible" enough to matter: the "quantifiable" tasks, the "scalable" skills, the "data-driven" professions. Then, having made those jobs visible, they proceed to automate them. 
+excerpt: Tech systems, just like states, look for things that they can measure - and ignore what they can’t. First, they learn which kinds of work are "legible" enough to matter - the "quantifiable" tasks, the "scalable" skills, the "data-driven" professions. Then, having made those jobs visible, they proceed to automate them. 
 ---
 James C. Scott’s "Seeing Like a State" (1998) is one of those books that quietly rewires how you see the world. On the surface, it’s about failed utopian projects like Soviet collectivization, Le Corbusier-style cities, scientific forestry in Prussia. But underneath, it’s a study of what happens when complex, living human systems are forced to fit into simplified, legible ones.
 

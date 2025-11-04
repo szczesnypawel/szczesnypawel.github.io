@@ -101,6 +101,36 @@ img, iframe {
   border-radius: 1.1rem;
   box-shadow: var(--shadow-faint);
   margin: 2rem 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Ensure images scale to column width and are centered */
+.blog-post img,
+.post-content img,
+article img,
+p img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  /* Override any inline width attributes */
+  display: block;
+}
+
+/* Remove width constraints from inline styles and attributes */
+img[width] {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Ensure images break out of paragraph constraints */
+p > img {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 figure {
@@ -394,6 +424,13 @@ table tbody tr:hover {
 
   .blog-post {
     padding: 1.6rem;
+  }
+
+  /* Ensure images are fully responsive on mobile */
+  img, iframe {
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem 0;
   }
 }
 
