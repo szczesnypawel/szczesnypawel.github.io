@@ -1,12 +1,43 @@
 ---
-title: Science
-icon: fas fa-flask
+title: Projects
+icon: fas fa-project-diagram
 order: 5
+toc: true
 ---
 
+## Art Projects
+
+This section features my artistic works, visual explorations, and creative expressions.
+
+### AI-TAT - in progress
+The project involves the creation of surreal landscapes, which are meant to be utilized in Thematic Apperception Tests (TATs) for psychological analysis. These landscapes, characterized by their dream-like and unconventional nature, are crafted to provoke unique responses from individuals. The aim is to use these responses in TATs, a psychological testing method where subjects narrate stories based on ambiguous images, to uncover underlying psychological themes and patterns.
+
+It’s an intersection of art and psychology, offering a novel approach to understanding the human psyche, albeit with the need for nuanced handling in its application.
+
+### Human condition - in progress
+This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project’s focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
 
 
-## Bacterial Adhesins and Autotransporters
+### Psycho comics
+Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance.
+
+### Masks that wear you
+This project consists of a series of 30 masks, each designed to represent a different emotional state, inspired by Lance Baker’s poem “The Masks That Wear Me“. The central theme of the poem, and by extension the masks, is the concept that emotional states possess a controlling influence over individuals. Contrary to the common saying that people ‘wear’ their emotions, Baker’s perspective suggests that emotions, in fact, ‘wear’ the individuals, indicating a more profound and dominating impact.
+
+The masks are created as physical embodiments of various emotions, illustrating how these states can define or change a person’s identity and perception. Each mask is crafted to visually express the essence of an emotion, capturing its intensity and influence.
+
+
+### Molecular world
+My illustrations of molecules have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard University, University of Cambridge, ZDNet and many others to illustrate reports, blog posts or articles about scientific discoveries.
+
+
+
+
+## Science Projects
+
+Selected research areas where I have contributed across biology, bioinformatics, and open science.
+
+### Bacterial Adhesins and Autotransporters
 
 *   **Adhesion of the genome-sequenced Lactococcus lactis subsp. cremoris IBB477 strain is mediated by specific molecular determinants**. Radziwill-Bienkowska JM, Le DTL, **Szczesny P**, Duviau MP, Aleksandrzak-Piekarczyk T, Loubière P, Mercier-Bonin M, Bardowski JK, Kowalczyk M. *Applied Microbiology and Biotechnology*. 2016. 100:9605-9617.
 *   **Structure, domain diversity and evolution of trimeric autotransporter adhesins**. **Szczesny P**, Lupas A, Linke D. In: *61. Jahrestagung der Deutschen Gesellschaft fur Hygiene und Mikrobiologie (DGHM 2009)*. 2009. p. 64. Urban & Fischer.
@@ -15,7 +46,7 @@ order: 5
 *   **A conserved glycine residue of trimeric autotransporter domains plays a key role in Yersinia adhesin A autotransport**. Grosskinsky U, Schütz M, Fritz M, Schmid Y, Lamparter MC, **Szczesny P**, Lupas AN, Autenrieth IB, Linke D. *Journal of bacteriology*. 2007. 189(24):9011-9019.
 *   **Model structure of the prototypical non-fimbrial adhesin YadA of Yersinia enterocolitica**. Koretke KK, **Szczesny P**, Gruber M, Lupas AN. *Journal of structural biology*. 2006. 155(2):154-161.
 
-## Genomics, Metagenomics, and Bioinformatics Tools
+### Genomics, Metagenomics, and Bioinformatics Tools
 
 *   **Inferring gene-species assignments in the presence of horizontal gene transfer**. Mykowiecka A, **Szczesny P**, Górecki P. *IEEE/ACM transactions on computational biology and bioinformatics*. 2017. 15(5):1571-1578.
 *   **Detection of methanogens and phylogenetic analyses of methanogenic communities**. **Szczesny P**, Lipinski L, Bartosik D, Drewniak L. In: *From Genes to Species: Novel Insights from Metagenomics*. 2016. p. 92. Frontiers Media SA.
@@ -25,7 +56,7 @@ order: 5
 *   **Algorithm for error detection in metagonomics NGS data**. Vassilev D, Krachunov M, Popov I, Todorovska E, Simeonova V, **Szczesny P**, Siedlecki P, Zielenkiewicz U. *EMBnet. journal*. 2012. 17(B):pp-28.
 *   **MOFOID—not only the protein modeling server**. **Szczesny P**, Wieczorek G, Zielenkiewicz P. *Acta Biochim. Pol*. 2005. 52:267-269.
 
-## Protein Evolution, Phylogenetics, and Horizontal Gene Transfer
+### Protein Evolution, Phylogenetics, and Horizontal Gene Transfer
 
 *   **Distinct Protein Classes in Human Red Cell Proteome Revealed by Similarity of Phylogenetic Profiles**. **Szczesny P**, Mykowiecka A, Pawłowski K, Grynberg M. *PloS one*. 2013. 8(1):e54471.
 *   **The evolutionary rate of antibacterial drug targets**. Gladki A, Kaczanowski S, **Szczesny P**, Zielenkiewicz P. *BMC bioinformatics*. 2013. 14:1-10.
@@ -33,7 +64,7 @@ order: 5
 *   **Extending the Aerolysin Family: From Bacteria to Vertebrates**. **Szczesny P**, Iacovache I, Muszewska A, Ginalski K, van der Goot FG, Grynberg M. *PloS one*. 2011. 6(6):e20349.
 *   **Independent Subtilases Expansions in Fungi Associated With Animals**. Muszewska A, Taylor JW, **Szczęsny P**, Grynberg M. *Molecular Biology and Evolution*. 2011.
 
-## Translational Regulation and RNA Biology
+### Translational Regulation and RNA Biology
 
 *   **Plasmodium falciparum translational machinery condones polyadenosine repeats**. Pavlovic Djuranovic S, Erath J, Andrews RJ, Bayguinov PO, Chung JJ, Chalker DL, Fitzpatrick JAJ, Moss WN, **Szczesny P**, Djuranovic S. *Elife*. 2020. 9:e57799.
 *   **A short translational ramp determines the efficiency of protein synthesis**. Verma M, Choi J, Cottrell KA, Lavagnino Z, Thomas EN, Pavlovic-Djuranovic S, **Szczesny P**, Piston DW, Zaher HS, Puglisi JD, and others. *Nature communications*. 2019. 10(1):5774.
@@ -44,7 +75,7 @@ order: 5
 *   **Synonymous mutations in the light of translational regulation**. **Szczesny P**. In: *BIO 2016 Congress*. 2016. Vol. 2, p. 91. Acta Biochimica Polonica.
 *   **Translational control by lysine-encoding A-rich sequences**. Arthur LL, Pavlovic-Djuranovic S, Koutmou KS, Green R, **Szczesny P**, Djuranovic S. *Science advances*. 2015. 1(6):e1500154.
 
-## Microbial Ecology and Biotechnology
+### Microbial Ecology and Biotechnology
 
 *   **Evaluation of bacterial diversity on historical silk velvet textiles from the Museum of King John III's Palace at Wilanow, Poland**. Brzozowska I, Bogdanowicz A, **Szczesny P**, Zielenkiewicz U, Laudy A. *International Biodeterioration & Biodegradation*. 2017.
 *   **Taxonomic and chemical assessment of exceptionally abundant rock mine biofilm**. Tomczyk-Żak K, **Szczesny P**, Gromadka R, Zielenkiewicz U. *PeerJ*. 2017. 5:e3635.
@@ -53,7 +84,7 @@ order: 5
 *   **Biodiversity in Oscypek, a traditional Polish cheese, determined by culture-dependent and-independent approaches**. Alegría Á, **Szczesny P**, Mayo B, Bardowski J, Kowalczyk M. *Applied and environmental microbiology*. 2012. 78(6):1890-1898.
 *   **Comparative analysis of hydrogen-producing bacterial biofilms and granular sludge formed in continuous cultures of fermentative bacteria**. Chojnacka A, Blaszczyk MK, **Szczesny P**, Nowak K, Suminska M, Tomczyk-Zak K, Zielenkiewicz U, Sikora A. *Bioresource Technology*. 2011.
 
-## Physiology, Metabolism, and Medical Research
+### Physiology, Metabolism, and Medical Research
 
 *   **Correlation of gestational age and age at death in sudden infant death syndrome: another pointer to the role of critical developmental period?**. Habich M, Zielenkiewicz P, Paczek L, **Szczesny P**. *BMC pediatrics*. 2024. 24(1):259.
 *   **The relationship between EMG high frequency and low frequency band amplitude changes correlates with tissue inorganic phosphate levels**. Habich M, Pawlinski B, Lorenc K, Sady M, Siewruk K, Zielenkiewicz P, Gajewski Z, Poznanski J, Paczek L, **Szczesny P**. *Acta Biochimica Polonica*. 2023.
@@ -66,22 +97,22 @@ order: 5
 *   **Proteins contribute insignificantly to the intrinsic buffering capacity of yeast cytoplasm**. Poznanski J, **Szczesny P**, Ruszczyńska K, Zielenkiewicz P, Paczek L. *Biochemical and biophysical research communications*. 2013. 430(2):741-744.
 *   **Fluorouracil metabolism in Saccharomyces cerevisiase by 19F NMR**. Rempola B, Krupinski P, Polkowska A, **Szczesny P**, Pawlowski P, Poznanski J. In: *YEAST*. 2013. Vol. 30, pp. 171-171. 
 
-## Open Science and Scientific Communication
+### Open Science and Scientific Communication
 
 *   **Foundations for open scholarship strategy development**. Tennant J, Beamer J, Bosman J, Brembs B, Chung NC, Clement G, Crick T, Dugan J, Dunning A, Eccles D, and others. *MetaArXiv*. 2019. 
 *   **Otwarta nauka, czyli dobre praktyki uczonych (Open science - good research practices)**. **Szczęsny P**. *Wydawnictwa Zwarte Stowarzyszenia EBIB*. 2013. Vol. 7. Wydawnictwa Zwarte Stowarzyszenia EBIB.
 *   **Otwieranie nauki -- lekcja z globalizacji (Opening science - the lesson from globalisation)**. **Szczesny P**. *Biuletyn Polskiego Towarzystwa Ekonomicznego*. 2012. 56:138-143.
-*   **Nauka 2.0. Świadome współtworzenie**. **Szczęsny P**. Instytut Obywatelski, 2012.
+*   **Nauka 2.0. Świadome współtworzenie**. **Szczesny P**. Instytut Obywatelski, 2012.
 *   **Acknowledging contributions to online expert assistance**. Waagmeester A, Palidwor G, **Szczesny P**, Albert I, Mangan M, Miller C, Cockell S, Lindenbaum P, Silvestre DAMM, Dall’Olio GM, and others. Altmetrics Workshop. 2011.
 
-## Plant Genomics and Physiology
+### Plant Genomics and Physiology
 
 *   **Engineering high Zn in tomato shoots through expression of AtHMA4 involves tissue-specific modification of endogenous genes**. Kendziorek M, Klimecka M, Barabasz A, Borg S, Rudzka J, **Szczesny P**, Antosiewicz DM. *BMC genomics*. 2016. 17:1-20.
 *   **Potato annexin STANN1 promotes drought tolerance and mitigates light stress in transgenic Solanum tuberosum L. plants**. Szalonek M, Sierpien B, Rymaszewski W, Gieczewska K, Garstka M, Lichocka M, Sass L, Paul K, Vass I, Vankova R, and others. *PloS one*. 2015. 10(7):e0132683.
 *   **Genome sequence and analysis of the tuber crop potato.** Xu X, Pan S, Cheng S, Zhang B, Mu D, Ni P, Zhang G, Yang S, Li R, Wang J, and others. *Nature*. 2011. 475(7355):189-195.
 *   **Genom ziemniaka zsekwencjonowany**. Gromadka R, Gawor J, **Szczęsny P**, Zagórski W. *KOSMOS*. 2011. 60(3-4):491-497.
 
-## Others
+### Others
 
 *   **From the index case to global spread: the global mobility based modelling of the COVID-19 pandemic implies higher infection rate and lower detection ratio than current estimates**. Siwiak M, **Szczesny P**, Siwiak M. *PeerJ*. 2020. 8:e9548.
 *   **KAEA (SUDPRO), a member of the ubiquitous KEOPS/EKC protein complex, regulates the arginine catabolic pathway and the expression of several other genes in Aspergillus nidulans**. Dzikowska A, Grzelak A, Gawlik J, Szewczyk E, Mrozek P, Borsuk P, Koper M, Empel J, **Szczesny P**, Piłsyk S, and others. *Gene*. 2015. 573(2):310-320.
