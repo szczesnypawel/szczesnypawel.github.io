@@ -22,32 +22,31 @@ My work in Science Policy & Open Science initiatives reflected a growing recogni
 
 ### The Next Frontier
 
-Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. This insight led to founding [**Neurofusion Lab**](https://neurofusionlab.com), where we explored how large language models can serve as mirrors and amplifiers of human cognition — decoding not just what people say, but **how they construct meaning**.
+Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. This insight led to founding **Neurofusion Lab**, where I explored how large language models can serve as mirrors and amplifiers of human cognition — decoding not just what people say, but **how they construct meaning**.
 
-Our work blends **AI modeling, psychology, and narrative analysis** to understand how technology reshapes human intention, identity, and agency.
+My work blends **AI modeling, psychology, and narrative analysis** to understand how technology reshapes human intention, identity, and agency.
 
 ## Current Focus
 
-I currently write a series of books that examine how humans and intelligent systems co-evolve.
+I currently write a book that examine how humans and intelligent systems co-evolve. Major themes:
 
-### *Illegible: Notes from the Edge of Cognitive Capture*
+### *Illegibility*
 
-A hybrid of memoir, field notes, and philosophical dispatches.
 It explores how systems — from academia to AI — reward legibility, efficiency, and predictability, and how individuals can stay *illegible* enough to remain human. It’s a personal story about curiosity, loss of agency, and the attempt to reclaim one’s own reasons for thinking.
 
 ### *Noofusion*
 
-A conceptual and empirical work describing a new cognitive phenomenon: **deep fusion between human and model thinking**.
+A new cognitive phenomenon: **deep fusion between human and model thinking**.
 It investigates what happens when language models stop being tools and start becoming **cognitive partners** — how shared reasoning spaces, blended authorship, and emergent metaphors arise from sustained dialogue between a person and an AI.
 
 ### *Homo symbiotelicus*
 
-A forthcoming book on the **teleology of modern life** — how our goals are increasingly co-constructed with systems (what I call *symbiotelia*), and what it means to preserve or regain **autotelia**, the capacity to generate goals from within.
+**Teleology of modern life** — how our goals are increasingly co-constructed with systems (what I call *symbiotelia*), and what it means to preserve or regain **autotelia**, the capacity to generate goals from within.
 It connects psychology, systems theory, and cybernetics (Ashby’s Law of Requisite Variety) to propose new ways of understanding agency in an age of algorithmic steering.
 
 ### *Cognitive Sovereignty*
 
-The overarching series tying these threads together: an inquiry into how individuals and organizations can navigate hybrid intelligence without losing autonomy. It’s less about resisting technology, and more about learning to **steer it without being rewritten by it**.
+The overarching theme tying these threads together: an inquiry into how individuals and organizations can navigate hybrid intelligence without losing autonomy. It’s less about resisting technology, and more about learning to **steer it without being rewritten by it**.
 
 
 
