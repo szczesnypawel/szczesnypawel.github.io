@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Science
-subtitle: Research and scientific explorations
+icon: fas fa-flask
+order: 5
 ---
 
 

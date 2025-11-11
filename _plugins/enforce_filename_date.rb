@@ -19,9 +19,8 @@ Jekyll::Hooks.register :posts, :post_init do |post|
       # Create a new date object from the filename
       filename_date = Time.utc(year, month, day)
       
-      # Override the date with the filename date
+      # Override the date stored in front matter so templates use the filename date
       post.data['date'] = filename_date
-      post.date = filename_date
       
       Jekyll.logger.debug "FilenameDateEnforcer:", "Set date for #{filename} to #{filename_date.strftime('%Y-%m-%d')}"
     rescue ArgumentError => e
@@ -31,5 +30,4 @@ Jekyll::Hooks.register :posts, :post_init do |post|
     Jekyll.logger.warn "FilenameDateEnforcer:", "Could not extract date from filename: #{filename}"
   end
 end
-
 

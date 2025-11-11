@@ -1,22 +1,26 @@
 ---
-layout: page
 title: About
-permalink: /about/
+icon: fas fa-user
+order: 4
 ---
 
-My journey through science and technology has been driven by a curiosity about complex systems - from molecular biology to human behavior. I'm a biologist (PhD) and a psychologist (second major).
+My journey through science and technology has been driven by a curiosity about complex systems — from molecular biology to human behavior. I'm a biologist (PhD) and a psychologist (second major).
 
 ### Scientific Foundations
+
 I built my research foundation across multiple domains:
+
 - **Structural & Evolutionary Biology** at UCSD, Max-Planck Institute, IBB PAS, and University of Warsaw
 - **Biomarker Discovery & Diagnostics** at IBB PAS and University of Warsaw
 - **Pharmaceutical Research** focusing on drug target selection at Roche/Genentech
 - **Health Technology** development at Nootech (nootropics) and VR therapy applications (2Eye, Fobos)
 
 ### Building Bridges
+
 My work in Science Policy & Open Science initiatives reflected a growing recognition that scientific progress requires breaking down institutional barriers. I served as an advisor to:
+
 - Polish Academy of Sciences
-- Polish Ministry of Science and Higher Education  
+- Polish Ministry of Science and Higher Education
 - European Commission
 - UNESCO
 
@@ -28,7 +32,7 @@ My work blends **AI modeling, psychology, and narrative analysis** to understand
 
 ## Current Focus
 
-I currently write a book that examine how humans and intelligent systems co-evolve. Major themes:
+I currently write a book that examines how humans and intelligent systems co-evolve. Major themes:
 
 ### *Illegibility*
 
@@ -47,8 +51,3 @@ It connects psychology, systems theory, and cybernetics (Ashby’s Law of Requis
 ### *Cognitive Sovereignty*
 
 The overarching theme tying these threads together: an inquiry into how individuals and organizations can navigate hybrid intelligence without losing autonomy. It’s less about resisting technology, and more about learning to **steer it without being rewritten by it**.
-
-
-
-
-

@@ -1,77 +1,223 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# The Site Configuration
 
-title: Pawel Szczesny - homepage
-email: ps@devnovo.io
-description: >- # this means to ignore newlines until "baseurl:"
+# Import the theme
+theme: jekyll-theme-chirpy
+
+# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
+# otherwise, the layout language will use the default value of 'en'.
+lang: en
+
+# Change to your timezone › https://zones.arilyn.cc
+timezone:
+
+# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# ↓ --------------------------
+
+title: Pawel Szczesny
+
+# it will display as the subtitle
+tagline: Public notes on AI, psychology, and science
+
+description: >-
   Public notes and thoughts on AI, psychology, science, research and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://szczesnypawel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pawelpszczesny
-github_username:  szczesnypawel
-linkedin_username: pawelpszczesny
-social-network-links:
-  twitter: pawelpszczesny
-  github: szczesnypawel
-  linkedin: pawelpszczesny
-# Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
 
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-feed
-  - jekyll-paginate
+# Fill in the protocol & hostname for your site.
+# E.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "https://szczesnypawel.github.io"
 
-# Pagination settings
+github:
+  username: szczesnypawel
+
+twitter:
+  username: pawelpszczesny
+
+social:
+  # Change to your full name.
+  # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: Pawel Szczesny
+  email: ps@devnovo.io
+  links:
+    # The first element serves as the copyright owner's link
+    - https://szczesnypawel.github.io
+    - https://twitter.com/pawelpszczesny
+    - https://github.com/szczesnypawel
+    - https://www.linkedin.com/in/pawelpszczesny
+
+# Site Verification Settings
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
+
+# ↑ --------------------------
+# The end of `jekyll-seo-tag` settings
+
+# Web Analytics Settings
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+  umami:
+    id:
+    domain:
+  matomo:
+    id:
+    domain:
+  cloudflare:
+    id:
+  fathom:
+    id:
+
+# Page views settings
+pageviews:
+  provider:
+
+# Prefer color scheme setting.
+#
+# Note: Keep empty will follow the system prefer color by default,
+# and there will be a toggle to switch the theme between dark and light
+# on the bottom left of the sidebar.
+#
+# Available options:
+#
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
+#
+theme_mode:
+
+# The CDN endpoint for media resources.
+# Notice that once it is assigned, the CDN url
+# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+#
+# e.g. 'https://cdn.com'
+cdn:
+
+# the avatar on sidebar, support local or CORS resources
+avatar:
+
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image:
+
+# boolean type, the global switch for TOC in posts.
+toc: true
+
+comments:
+  # Global switch for the post-comment system. Keeping it empty means disabled.
+  provider:
+  # The provider options are as follows:
+  disqus:
+    shortname:
+  # utterances settings › https://utteranc.es/
+  utterances:
+    repo:
+    issue_term:
+  # Giscus options › https://giscus.app
+  giscus:
+    repo:
+    repo_id:
+    category:
+    category_id:
+    mapping:
+    strict:
+    input_position:
+    lang:
+    reactions_enabled:
+
+# Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+assets:
+  self_host:
+    enabled:
+    # specify the Jekyll environment, empty means both
+    # only works if `assets.self_host.enabled` is 'true'
+    env:
+
+pwa:
+  enabled: true # The option for PWA feature (installable)
+  cache:
+    enabled: true # The option for PWA offline cache
+    # Paths defined here will be excluded from the PWA cache.
+    # Usually its value is the `baseurl` of another website that
+    # shares the same domain name as the current website.
+    deny_paths:
+      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+
 paginate: 10
-paginate_path: "/page:num/"
 
-navbar-links:
-  About Me: "about"
-  Science: "science"
+# The base URL of your site
+baseurl: ""
 
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+# ------------ The following options are not recommended to be modified ------------------
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
-# Include assets directory
-include:
-  - assets
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
