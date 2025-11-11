@@ -5,6 +5,25 @@ order: 5
 toc: true
 ---
 
+## Table of Contents
+
+- [Art Projects](#art-projects)
+  - [AI-TAT - in progress](#ai-tat---in-progress)
+  - [Human condition - in progress](#human-condition---in-progress)
+  - [Psycho comics](#psycho-comics)
+  - [Masks that wear you](#masks-that-wear-you)
+  - [Molecular world](#molecular-world)
+- [Science Projects](#science-projects)
+  - [Bacterial Adhesins and Autotransporters](#bacterial-adhesins-and-autotransporters)
+  - [Genomics, Metagenomics, and Bioinformatics Tools](#genomics-metagenomics-and-bioinformatics-tools)
+  - [Protein Evolution, Phylogenetics, and Horizontal Gene Transfer](#protein-evolution-phylogenetics-and-horizontal-gene-transfer)
+  - [Translational Regulation and RNA Biology](#translational-regulation-and-rna-biology)
+  - [Microbial Ecology and Biotechnology](#microbial-ecology-and-biotechnology)
+  - [Physiology, Metabolism, and Medical Research](#physiology-metabolism-and-medical-research)
+  - [Open Science and Scientific Communication](#open-science-and-scientific-communication)
+  - [Plant Genomics and Physiology](#plant-genomics-and-physiology)
+  - [Others](#others)
+
 ## Art Projects
 
 This section features my artistic works, visual explorations, and creative expressions.
