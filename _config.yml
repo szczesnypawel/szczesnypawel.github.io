@@ -37,6 +37,11 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
+  - jekyll-paginate
+
+# Pagination settings
+paginate: 10
+paginate_path: "/page:num/"
 
 navbar-links:
   About Me: "about"
