@@ -14,9 +14,9 @@ Complex cognitive tasks require working memory, mental flexibility, and the abil
 
 Under moderate arousal, focus heightens and attention sustains. The task feels challenging but manageable. Beyond that point, a state of cognitive narrowing emerges. The attentional spotlight constricts. Obvious solutions dominate while creative alternatives fade. Working memory capacity drops. Habitual patterns replace adaptive responses to novel situations.
 
-Which brings us to work duration. If cognitive performance follows an inverted-U curve with arousal, and sustained effort gradually increases arousal, then there's a natural limit to productive cognitive work in a single day.
+Which brings us to work duration. If cognitive performance follows an inverted-U curve with arousal, and on demanding tasks, sustained effort often elevates arousal and fatigue, then there's a natural limit to productive cognitive work in a single day.
 
-The magic number keeps appearing in different contexts. Cal Newport's deep work research suggests 4 hours as an upper limit for sustained focus. Charles Darwin, reportedly, worked in focused bursts totaling around 4-5 hours daily. Many mathematicians and writers describe similar patterns—intense morning sessions, afternoons for correspondence and lighter tasks.
+The "magic" number keeps appearing in different contexts. Cal Newport's deep work research suggests 4 hours as an upper limit for sustained focus. Charles Darwin, reportedly, worked in focused bursts totaling around 4-5 hours daily. Many mathematicians and writers describe similar patterns—intense morning sessions, afternoons for correspondence and lighter tasks.
 
 The historical anecdotes are interesting, but the pattern points to something narrower: a daily bound on high-stakes discrimination. The seventh hour of debugging doesn't just yield less than the third hour—it actively degrades work quality. New bugs appear while attempting to fix existing ones. 
 
@@ -24,7 +24,7 @@ The historical anecdotes are interesting, but the pattern points to something na
 
 The Yerkes-Dodson law reveals an interesting pattern when working with AI systems for cognitive tasks. Extended sessions with language models create a subtle arousal trap.
 
-The AI never tires. It maintains consistent response quality whether it's the first prompt or the fiftieth. This creates an illusion of sustainable intensity. But the human remains subject to the same cognitive limits that existed before language models.
+The AI never tires. It maintains consistent response quality whether it's the first prompt or the fiftieth (if you account for conversation drift, of course). This creates an illusion of sustainable intensity. But the human remains subject to the same cognitive limits that existed before language models.
 
 The conversational nature of AI interaction can disguise cognitive fatigue. Dialogue flows, feedback arrives immediately, progress appears. These intrinsically rewarding elements keep arousal elevated. But elevated arousal on a complex task means climbing the wrong side of the curve.
 
