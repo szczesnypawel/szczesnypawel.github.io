@@ -60,14 +60,21 @@ It’s an intersection of art and psychology, offering a novel approach to under
 
 {% include gallery-carousel.html
   folder="/assets/images/aitat/"
-  alt_prefix="Molecular illustration"
-  region_label="Gallery of molecular illustrations"
+  alt_prefix="AI TAT"
+  region_label="Gallery of AI TAT"
   hint="Swipe or scroll horizontally"
 %}
 
 ### Messages from Future
 
 The project involves using base models to generate creative and original messages resembling news pieces but set up in a near or not so near future.
+
+{% include gallery-carousel.html
+  folder="/assets/images/hc/"
+  alt_prefix="Messages from future"
+  region_label="Gallery of messages from future"
+  hint="Swipe or scroll horizontally"
+%}
 
 ### Human condition
 This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project’s focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
@@ -100,8 +107,8 @@ Few comics about emotions and motivations. They illustrated my old newsletter �
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
-  alt_prefix="Molecular illustration"
-  region_label="Gallery of molecular illustrations"
+  alt_prefix="Psychocomic illustration"
+  region_label="Gallery of psychological illustrations"
   hint="Swipe or scroll horizontally"
 %}
 
@@ -112,8 +119,8 @@ The masks are created as physical embodiments of various emotions, illustrating 
 
 {% include gallery-carousel.html
   folder="/assets/images/masks/"
-  alt_prefix="Molecular illustration"
-  region_label="Gallery of molecular illustrations"
+  alt_prefix="Masks illustration"
+  region_label="Gallery of masks illustrations"
   hint="Swipe or scroll horizontally"
 %}
 
