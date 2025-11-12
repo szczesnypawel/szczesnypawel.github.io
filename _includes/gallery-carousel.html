@@ -51,24 +51,24 @@
 
 {% assign gallery_folder = include.folder | default: '' %}
 {% if gallery_folder == '' %}
-  <p><em>Gallery folder not provided.</em></p>
+<p><em>Gallery folder not provided.</em></p>
 {% else %}
-  {% assign gallery_alt_prefix = include.alt_prefix | default: 'Gallery image' %}
-  {% assign gallery_region_label = include.region_label | default: 'Image gallery' %}
-  {% assign gallery_hint = include.hint | default: 'Swipe or scroll horizontally to explore the gallery.' %}
-  {% assign gallery_files = site.static_files | where_exp: "file", "file.path contains gallery_folder" | sort: "path" %}
-  {% if gallery_files == empty %}
-    <p><em>No media found in {{ gallery_folder }}.</em></p>
-  {% else %}
-    <div class="gallery-carousel" role="region" aria-label="{{ gallery_region_label }}">
-      {% for image in gallery_files %}
-        <figure class="gallery-carousel__slide" role="group" aria-label="{{ gallery_alt_prefix }} {{ forloop.index }}">
-          <img src="{{ image.path | relative_url }}" alt="{{ gallery_alt_prefix }} {{ forloop.index }}" loading="lazy">
-        </figure>
-      {% endfor %}
-    </div>
-    {% if include.hide_hint != true %}
-      <span class="gallery-carousel__hint">{{ gallery_hint }}</span>
-    {% endif %}
-  {% endif %}
+{% assign gallery_alt_prefix = include.alt_prefix | default: 'Gallery image' %}
+{% assign gallery_region_label = include.region_label | default: 'Image gallery' %}
+{% assign gallery_hint = include.hint | default: 'Swipe or scroll horizontally to explore the gallery.' %}
+{% assign gallery_files = site.static_files | where_exp: "file", "file.path contains gallery_folder" | sort: "path" %}
+{% if gallery_files == empty %}
+<p><em>No media found in {{ gallery_folder }}.</em></p>
+{% else %}
+<div class="gallery-carousel" role="region" aria-label="{{ gallery_region_label }}">
+{% for image in gallery_files %}
+<figure class="gallery-carousel__slide" role="group" aria-label="{{ gallery_alt_prefix }} {{ forloop.index }}">
+  <img src="{{ image.path | relative_url }}" alt="{{ gallery_alt_prefix }} {{ forloop.index }}" loading="lazy">
+</figure>
+{% endfor %}
+</div>
+{% if include.hide_hint != true %}
+<span class="gallery-carousel__hint">{{ gallery_hint }}</span>
+{% endif %}
+{% endif %}
 {% endif %}
