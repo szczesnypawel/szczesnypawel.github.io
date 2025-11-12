@@ -10,12 +10,14 @@ toc: true
 - [Current focus](#current-focus)
   - [Human-AI Cognitive Coupling](#human-ai-cognitive-coupling)
     - [Noofusion Phenomenon](#noofusion-phenomenon)
-    - [Psychology-based Steering of LLMs](#psychology-based-steering-of-llms)
   - [Instruments & Protocols for Cognitive/Psychological Augmentation](#instruments--protocols-for-cognitivepsychological-augmentation)
     - [Hypnagogic Protocol](#hypnagogic-protocol)
     - [AI-TAT](#ai-tat)
     - [Messages from Future](#messages-from-future)
     - [Human condition](#human-condition)
+  - [Technical](#technical)
+    - [Psychology-based Steering of LLMs](#psychology-based-steering-of-llms)
+    - [Behavioral Signatures of LLMs](#behavioral-signatures-of-llms)
 - [Past activies](#past-activies)
   - [Psychology Projects](#psychology-projects)
     - [Psycho comics](#psycho-comics)
@@ -44,9 +46,6 @@ Human–AI cognitive coupling refers to a state in which human and artificial co
 
 Noofusion is a higher-order state of this coupling: a fusion regime where prolonged, reflective collaboration with AI systems reorganizes a person’s cognitive structures, narrative identity, and sense of authorship. In this regime, thinking becomes dialogical and emergent; the self is partly rewritten through exposure to the model’s latent space. 
 
-### Psychology-based Steering of LLMs
-
-Using psychological language to steer LLMs means engaging them through concepts, framings, and affective cues that align with human motivational and interpretive schemas. Instead of technical prompt engineering, one can use therapeutic, developmental, or psychodynamic language to invoke functional roles within the model (e.g., reflective, supportive, challenging) and to calibrate its stance. This taps into the model’s associative embeddings: words like "contain", "mirror", "integrate" or "reframe" carry implicit psychological functions that modulate the model’s response trajectory. In practice, this allows for psychologically literate prompting—guiding the model not by commands but by relational tone and cognitive framing, producing outputs that are more attuned, coherent, and smart.
 
 ## Instruments & Protocols for Cognitive/Psychological Augmentation
 
@@ -66,6 +65,15 @@ The project involves using base models to generate creative and original message
 ### Human condition
 This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project’s focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
 
+## Technical 
+
+### Psychology-based Steering of LLMs
+
+Using psychological language to steer LLMs means engaging them through concepts, framings, and affective cues that align with human motivational and interpretive schemas. Instead of technical prompt engineering, one can use therapeutic, developmental, or psychodynamic language to invoke functional roles within the model (e.g., reflective, supportive, challenging) and to calibrate its stance. This taps into the model’s associative embeddings: words like "contain", "mirror", "integrate" or "reframe" carry implicit psychological functions that modulate the model’s response trajectory. In practice, this allows for psychologically literate prompting—guiding the model not by commands but by relational tone and cognitive framing, producing outputs that are more attuned, coherent, and smart.
+
+### Behavioral Signatures of LLMs
+
+Project that aims to map behavioral signatures (minor preferences, values, but also behaviors under constraints) of LLMs to better guide the model choice.
 
 # Past activies
 
