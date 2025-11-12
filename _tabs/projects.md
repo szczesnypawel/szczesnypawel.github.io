@@ -62,7 +62,7 @@ It’s an intersection of art and psychology, offering a novel approach to under
   folder="/assets/images/aitat/"
   alt_prefix="Molecular illustration"
   region_label="Gallery of molecular illustrations"
-  hint="Swipe or scroll horizontally to explore the molecules."
+  hint="Swipe or scroll horizontally"
 %}
 
 ### Messages from Future
@@ -76,7 +76,7 @@ This project involves the creation of collages using Gelli prints, designed to r
   folder="/assets/images/hc/"
   alt_prefix="Molecular illustration"
   region_label="Gallery of molecular illustrations"
-  hint="Swipe or scroll horizontally to explore the molecules."
+  hint="Swipe or scroll horizontally"
 %}
 
 ## Technical 
@@ -87,20 +87,22 @@ Using psychological language to steer LLMs means engaging them through concepts,
 
 ### Behavioral Signatures of LLMs
 
-Project that aims to map behavioral signatures (minor preferences, values, but also behaviors under constraints) of LLMs to better guide the model choice.
+Project that aims to map behavioral signatures (minor preferences, values, but also behaviors under constraints) of LLMs to better guide the model choice. Planning to open source the repo, project done with Konrad Debski.
+
+![bsb-radar](/assets/images/bsb_radar.png)
 
 # Past activies
 
 ## Psychology Projects
 
 ### Psycho comics
-Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance.
+Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance. Think of it as elements of psychoeducation.
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
   alt_prefix="Molecular illustration"
   region_label="Gallery of molecular illustrations"
-  hint="Swipe or scroll horizontally to explore the molecules."
+  hint="Swipe or scroll horizontally"
 %}
 
 ### Masks that wear you
@@ -112,7 +114,7 @@ The masks are created as physical embodiments of various emotions, illustrating 
   folder="/assets/images/masks/"
   alt_prefix="Molecular illustration"
   region_label="Gallery of molecular illustrations"
-  hint="Swipe or scroll horizontally to explore the molecules."
+  hint="Swipe or scroll horizontally"
 %}
 
 ## Art Projects
@@ -124,7 +126,7 @@ My illustrations of molecules have been used by Imperial College London, Science
   folder="/assets/images/mol/"
   alt_prefix="Molecular illustration"
   region_label="Gallery of molecular illustrations"
-  hint="Swipe or scroll horizontally to explore the molecules."
+  hint="Swipe or scroll horizontally"
 %}
 
 ## Scientific Foundations
