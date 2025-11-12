@@ -1,7 +1,8 @@
 ---
 title: Stabilizing And Testing LLM-based Agents In Less Than 24hrs
 layout: post
-tags: ['stability', 'llm']
+categories: ['AI']
+tags: ['stability', 'llm', 'research']
 ---
 (Last modified: 2025-06-09)
 

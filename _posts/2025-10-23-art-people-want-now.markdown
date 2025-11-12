@@ -1,7 +1,8 @@
 ---
 title: "Art People Want Now: From Pretty Pictures to Shared Experiences"
 layout: post
-tags: ['AI', 'art', 'functional experience']
+categories: ['AI']
+tags: ['image models', 'art', 'functional experience']
 excerpt: Some people are satisfied with art's craft and surface. A striking image, a perfectly balanced object, a song that’s tight and in tune. With generative AI, this kind of art is now abundant and nearly frictionless to produce and consume. Beauty isn’t obsolete - but it’s a weak differentiator. But others are seeking something else entirely. To experience. To feel part of a moment. Even to co-create, however briefly, with the artist and with each other.
 ---
 

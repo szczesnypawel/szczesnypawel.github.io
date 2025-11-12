@@ -1,7 +1,8 @@
 ---
 title: Psychological Modulators - How Human Psychology Became the Secret Language for Controlling AI
 layout: post
-tags: ['AI','Psychology']
+categories: ['AI']
+tags: ['llm','psychology', 'prompting']
 excerpt: Simulating human behavior is an universal LLM steering strategy.
 ---
 (Last modified: 2025-06-14)
