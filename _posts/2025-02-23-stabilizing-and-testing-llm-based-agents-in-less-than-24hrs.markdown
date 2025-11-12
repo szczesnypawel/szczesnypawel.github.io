@@ -44,7 +44,8 @@ Many developers rely on setting temperature to 0 for stability. The reality is m
 
 A seemingly harmless word swap in your prompt can destabilize outputs or break your system entirely, independently of temperature settings. We gave GPT-4o-mini a simple task: list compass directions clockwise from North. The baseline prompt defined compass points and requested cardinal and intercardinal directions in clockwise order. Expected output was straightforward: north, northeast, east, southeast, south, southwest, west, northwest. The crucial element of the experiment: original instruction was written by the model of the same family (GPT-4o). 
 
-<img src="/assets/images/compass_rose.png" alt="Compass directions" style="max-width: 100%; height: auto;"/>
+![compass-rose-test](/assets/images/compass_rose.png)
+
 
 We tested prompt stability through systematic word substitutions in the instruction and variations in the temperature parameter. Each variant was run 10 times. The result? Kind of chaos. Some word substitutions were neutral, others resulted in lower accuracy, some made the model respond in the wrong way 100% of times (we searched for a correct word order, however formatted and with or without hyphens). Temperature changes affected consistency, but not in the linear way you might expect - higher randomness didn't always mean worse performance. Original instruction was among the most stable (some combinations were similar). 
 
@@ -56,7 +57,7 @@ JSON output simplifies agent development by making responses easier to parse. Ma
 
 Using GPT-4o-mini, we compared plain text versus JSON output for compass directions. Surprisingly, the plain text version produced fewer response variants across all experiments. The JSON version consistently showed higher error rates in runs of 20, 50, and 100 iterations. This challenges the common assumption that structured output inherently improves stability.
 
-<img src="/assets/images/compass_rose2.png" alt="JSON format analysis" style="max-width: 100%; height: auto;"/>
+![compass-rose-test2](/assets/images/compass_rose2.png)
 
 The lesson is clear: use JSON when you need structured data, not as a stability enhancement. When in doubt, test your instruction repeatedly - the results often contradict conventional wisdom.
 
@@ -67,14 +68,15 @@ Some AI agent frameworks come with pre-built agents with roles (like "tech leade
 Many AI frameworks include pre-built agents with defined roles - tech leaders, business analysts, HR directors - often with extensive backstories. While these can improve results, their effectiveness is rarely tested systematically.
 In our compass experiment with GPT-4o-mini, the baseline instruction achieved 90% accuracy at temperature=1. We tested two versions of a Carl Friedrich Gauss persona: a generic version achieved 97% accuracy, while a task-optimized version dropped to 23% accuracy over 100 runs. 
 
-<img src="/assets/images/persona1.png" alt="Gauss personas" style="max-width: 100%; height: auto;"/>
+![gauss-personas-1](/assets/images/persona1.png)
 
-<img src="/assets/images/persona2.png" alt="Gauss personas 2" style="max-width: 100%; height: auto;"/>
+![gauss-personas-2](/assets/images/persona2.png)
+
 
 This counterintuitive result led to broader testing.
 We generated multiple personas and tested them against our compass instruction with synonym replacements. The baseline approach averaged 65% accuracy (over all replacements). A navigation-specific persona and an unrelated "poet" persona showed slight improvements, while a "veteran maritime assessor" - seemingly ideal for the task - performed significantly worse.
 
-<img src="/assets/images/compass_rose_personas.png" alt="Compass rose - personas analysis" style="max-width: 100%; height: auto;"/>
+![compass-rose-personas](/assets/images/compass_rose_personas.png)
 
 
 The takeaway? Personas can enhance stability, but finding the right one requires testing, not intuition. Don't assume that topic-relevant personas automatically perform better.

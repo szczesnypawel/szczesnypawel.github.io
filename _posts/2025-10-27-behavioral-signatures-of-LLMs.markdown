@@ -33,7 +33,7 @@ The research uncovered three distinct types of specification failures:
 
 Beyond identifying specification problems, the research revealed systematic value preferences that emerge when instructions provide ambiguous guidance. 
 
-<img src="/assets/images/anthropic_radar.png" alt="Value prioritization of different models" width="300" style="margin: 0 auto;">
+![value-prioritization](/assets/images/anthropic_radar.png)
 
 
 Many of these patterns appear across model families, confirming that they stem from organizational decisions about pretraining data, alignment approaches, and implicit constitutional principles. But not all values show provider-level clustering. Business effectiveness, personal growth, and social equity exhibit heterogeneous patterns across models - individual characteristics dominate over provider philosophy. 
@@ -48,8 +48,7 @@ Every response gets analyzed across dozens of metrics spanning four categories, 
 
 The output: detailed signature cards and drift maps - multi-dimensional fingerprints of procedural character that complement Anthropic's value-based analysis
 
-<img src="/assets/images/bsb_radar.png" alt="Value prioritization of different models" width="300" style="margin: 0 auto;">
-
+![bsb-radar](/assets/images/bsb_radar.png)
 
 ## Why this matters
 

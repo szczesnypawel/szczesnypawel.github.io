@@ -46,7 +46,7 @@ See examples below. Each case shows System 1's intuition feeding into System 2's
 *3. System 2 → Environment:* Tourist expectations pressure tradition-modern balance  
 *4. Environment → Skills:* Surviving forms become new trance triggers  
 
-<img src="/assets/images/creativity_scaffold.png" alt="Creativity Cycle" width="300" style="margin: 0 auto;">
+![creativity-cycle](/assets/images/creativity_scaffold.png)
 
 This cyclical selection - through neural, social, and cultural filters - makes true creativity rare but durable. Most ideas die in childhood (System 2 rejection), others starve in adolescence (field indifference), few reach reproductive age. The implications:
 
