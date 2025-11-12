@@ -40,15 +40,15 @@ toc: true
 
 ## Human-AI Cognitive Coupling
 
-Human–AI cognitive coupling refers to a state in which human and artificial cognitive systems (such as large language models) form a joint cognitive loop—a dynamic exchange where each system shapes, constrains, and amplifies the other's thinking process. It goes beyond simple tool use: the AI becomes part of the user's extended cognitive architecture, offloading working memory, generating counterfactuals, or mirroring thought patterns.
+Human-AI cognitive coupling happens when you and an AI (like a large language model) start thinking together in a loop—each one shaping and amplifying the other's thoughts. It's more than just using a tool: the AI becomes part of how you think, helping hold ideas in your mind, suggesting alternatives, or reflecting your patterns back to you.
 
 ### Noofusion Phenomenon
 
-Noofusion is a higher-order state of this coupling: a fusion regime where prolonged, reflective collaboration with AI systems reorganizes a person's cognitive structures, narrative identity, and sense of authorship. In this regime, thinking becomes dialogical and emergent; the self is partly rewritten through exposure to the model's latent space. 
+Noofusion is what happens when you work with AI for long enough that it starts to change how you think. Through ongoing, reflective collaboration, your thinking patterns, your stories about yourself, and even your sense of who's doing the thinking begin to shift. Your thoughts become more like a conversation with the AI, and something new emerges—a version of yourself that's been reshaped by working with the model. 
 
 ### Psychology-based Steering of LLMs
 
-Using psychological language to steer LLMs means engaging them through concepts, framings, and affective cues that align with human motivational and interpretive schemas. Instead of technical prompt engineering, one can use therapeutic, developmental, or psychodynamic language to invoke functional roles within the model (e.g., reflective, supportive, challenging) and to calibrate its stance. This taps into the model's associative embeddings: words like "contain", "mirror", "integrate" or "reframe" carry implicit psychological functions that modulate the model's response trajectory. In practice, this allows for psychologically literate prompting—guiding the model not by commands but by relational tone and cognitive framing, producing outputs that are more attuned, coherent, and smart.
+You can guide LLMs by talking to them in psychological terms—using the kind of language therapists, coaches, or psychologists use. Instead of technical prompts, you can use words like "reflect," "support," or "challenge" to bring out different modes in the model. These psychological terms—like "contain," "mirror," "integrate," or "reframe"—carry implicit meanings that shift how the model responds. In practice, you're guiding the AI not through commands, but through tone and framing, which produces responses that feel more thoughtful, coherent, and attuned.
 
 ### Behavioral Signatures of LLMs
 
@@ -60,12 +60,12 @@ Project that aims to map behavioral signatures (minor preferences, values, but a
 
 ### Hypnagogic Protocol
 
-My Hypnagogia Protocol is a structured method for entering and harnessing the transitional state between wakefulness and sleep—the hypnagogic phase—as a cognitive workspace for solving problems that resist analytical reasoning. It treats this liminal state as a fertile cognitive territory where associative, imagistic, and non-linear processes loosen the grip of habitual thought patterns. The insight typically surfaces upon re-entry into full wakefulness, when the conscious mind re-encodes the material. In essence, the protocol operationalizes controlled cognitive destabilization—a reversible descent into semi-conscious plasticity—to unlock solutions that formal reasoning alone cannot reach.
+My Hypnagogic Protocol is a structured way to use that fuzzy state between being awake and asleep to solve problems that don't respond to normal thinking. In this twilight zone, your mind works differently—more associative, visual, and free from your usual thought patterns. The trick is to let yourself drift into that state with a problem in mind, then catch the insights when you wake back up. Basically, it's a controlled way to destabilize your thinking temporarily, letting your mind find solutions that logical analysis can't reach.
 
 ### AI-TAT 
-The project involves the creation of surreal landscapes, which are meant to be utilized in Thematic Apperception Tests (TATs) for psychological analysis. These landscapes, characterized by their dream-like and unconventional nature, are crafted to provoke unique responses from individuals. The aim is to use these responses in TATs, a psychological testing method where subjects narrate stories based on ambiguous images, to uncover underlying psychological themes and patterns.
+I create surreal, dreamlike landscapes to use in Thematic Apperception Tests (TATs)—a psychological method where people tell stories about ambiguous images. These unusual scenes are designed to trigger unique responses that reveal underlying psychological patterns and themes.
 
-It's an intersection of art and psychology, offering a novel approach to understanding the human psyche, albeit with the need for nuanced handling in its application.
+It's where art meets psychology, offering a fresh way to understand how people think and feel, though it needs careful interpretation.
 
 {% include gallery-carousel.html
   folder="/assets/images/aitat/"
@@ -78,7 +78,7 @@ It's an intersection of art and psychology, offering a novel approach to underst
 
 ### Messages from Future
 
-The project involves using base models to generate creative and original messages resembling news pieces but set up in a near or not so near future.
+I use base AI models to create fictional news pieces from the future—some near, some far off. They're meant to be creative and thought-provoking glimpses of what might come.
 
 {% include gallery-carousel.html
   folder="/assets/images/mff/"
@@ -88,7 +88,7 @@ The project involves using base models to generate creative and original message
 %}
 
 ### Human condition
-This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project's focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
+I make collages using Gelli prints to capture different psychological states—fear, uncertainty, doubt, and more. Gelli printing creates unique textures and patterns that I assemble to visually express the complexity of these emotions. It's about taking abstract feelings and making them visible, translating the inner psychological landscape into something you can see and feel.
 
 {% include gallery-carousel.html
   folder="/assets/images/hc/"
@@ -102,7 +102,7 @@ This project involves the creation of collages using Gelli prints, designed to r
 ## Psychology Projects
 
 ### Psycho comics
-Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance. Think of it as elements of psychoeducation.
+A series of comics about emotions and motivations that I created for my old newsletter "Hyperhuman Tech," which was about human performance. Think of them as little lessons in psychology made visual.
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
@@ -112,9 +112,9 @@ Few comics about emotions and motivations. They illustrated my old newsletter �
 %}
 
 ### Masks that wear you
-This project consists of a series of 30 masks, each designed to represent a different emotional state, inspired by Lance Baker’s poem “The Masks That Wear Me“. The central theme of the poem, and by extension the masks, is the concept that emotional states possess a controlling influence over individuals. Contrary to the common saying that people ‘wear’ their emotions, Baker’s perspective suggests that emotions, in fact, ‘wear’ the individuals, indicating a more profound and dominating impact.
+A series of 30 masks, each representing a different emotional state, inspired by Lance Baker's poem "The Masks That Wear Me." The core idea is that we don't just wear our emotions—they wear us. Emotions have a controlling influence that shapes who we are and how we see the world.
 
-The masks are created as physical embodiments of various emotions, illustrating how these states can define or change a person’s identity and perception. Each mask is crafted to visually express the essence of an emotion, capturing its intensity and influence.
+Each mask embodies an emotion, showing how these states can take over and redefine us. They're designed to capture the intensity and power of what we feel.
 
 {% include gallery-carousel.html
   folder="/assets/images/masks/"
@@ -126,7 +126,7 @@ The masks are created as physical embodiments of various emotions, illustrating 
 ## Art Projects
 
 ### Molecular world
-My illustrations of molecules have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard University, University of Cambridge, ZDNet and many others to illustrate reports, blog posts or articles about scientific discoveries.
+I create illustrations of molecules that have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard, Cambridge, and many others to bring scientific discoveries to life in their articles and reports.
 
 {% include gallery-carousel.html
   folder="/assets/images/mol/"
