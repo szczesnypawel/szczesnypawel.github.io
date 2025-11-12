@@ -1,0 +1,74 @@
+{% assign __gallery_carousel_css_loaded = __gallery_carousel_css_loaded | default: false %}
+{% unless __gallery_carousel_css_loaded %}
+<style>
+  .gallery-carousel {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(220px, min(320px, 30vw));
+    gap: 1rem;
+    overflow-x: auto;
+    padding: 0.5rem 0 0.25rem;
+    margin-bottom: 0.35rem;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+  }
+
+  .gallery-carousel__slide {
+    scroll-snap-align: center;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .gallery-carousel__slide:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.2);
+  }
+
+  .gallery-carousel__slide img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .gallery-carousel__hint {
+    font-size: 0.82rem;
+    color: var(--text-muted-color);
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .gallery-carousel {
+      grid-auto-columns: minmax(180px, 75vw);
+    }
+  }
+</style>
+{% assign __gallery_carousel_css_loaded = true %}
+{% endunless %}
+
+{% assign gallery_folder = include.folder | default: '' %}
+{% if gallery_folder == '' %}
+  <p><em>Gallery folder not provided.</em></p>
+{% else %}
+  {% assign gallery_alt_prefix = include.alt_prefix | default: 'Gallery image' %}
+  {% assign gallery_region_label = include.region_label | default: 'Image gallery' %}
+  {% assign gallery_hint = include.hint | default: 'Swipe or scroll horizontally to explore the gallery.' %}
+  {% assign gallery_files = site.static_files | where_exp: "file", "file.path contains gallery_folder" | sort: "path" %}
+  {% if gallery_files == empty %}
+    <p><em>No media found in {{ gallery_folder }}.</em></p>
+  {% else %}
+    <div class="gallery-carousel" role="region" aria-label="{{ gallery_region_label }}">
+      {% for image in gallery_files %}
+        <figure class="gallery-carousel__slide" role="group" aria-label="{{ gallery_alt_prefix }} {{ forloop.index }}">
+          <img src="{{ image.path | relative_url }}" alt="{{ gallery_alt_prefix }} {{ forloop.index }}" loading="lazy">
+        </figure>
+      {% endfor %}
+    </div>
+    {% if include.hide_hint != true %}
+      <span class="gallery-carousel__hint">{{ gallery_hint }}</span>
+    {% endif %}
+  {% endif %}
+{% endif %}

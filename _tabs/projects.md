@@ -92,6 +92,13 @@ The masks are created as physical embodiments of various emotions, illustrating 
 ### Molecular world
 My illustrations of molecules have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard University, University of Cambridge, ZDNet and many others to illustrate reports, blog posts or articles about scientific discoveries.
 
+{% include gallery-carousel.html
+  folder="/assets/images/mol/"
+  alt_prefix="Molecular illustration"
+  region_label="Gallery of molecular illustrations"
+  hint="Swipe or scroll horizontally to explore the molecules."
+%}
+
 ## Scientific Foundations
 
 Selected research areas where I have contributed across biology, bioinformatics, and open science.
