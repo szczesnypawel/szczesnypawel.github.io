@@ -70,7 +70,7 @@ It’s an intersection of art and psychology, offering a novel approach to under
 The project involves using base models to generate creative and original messages resembling news pieces but set up in a near or not so near future.
 
 {% include gallery-carousel.html
-  folder="/assets/images/hc/"
+  folder="/assets/images/mff/"
   alt_prefix="Messages from future"
   region_label="Gallery of messages from future"
   hint="Swipe or scroll horizontally"
