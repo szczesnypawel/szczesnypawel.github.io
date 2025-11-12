@@ -4,8 +4,6 @@ layout: post
 categories: ['AI']
 tags: ['stability', 'llm', 'research']
 ---
-(Last modified: 2025-06-09)
-
 
 This guide was originally written for AI enthusiasts participating in the AgentON hackathon, who needed to stabilize and thoroughly test prompts for LLMs under tight time constraints. 
 
