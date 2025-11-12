@@ -7,35 +7,69 @@ toc: true
 
 ## Table of Contents
 
-- [Art Projects](#art-projects)
-  - [AI-TAT - in progress](#ai-tat---in-progress)
-  - [Human condition - in progress](#human-condition---in-progress)
-  - [Psycho comics](#psycho-comics)
-  - [Masks that wear you](#masks-that-wear-you)
-  - [Molecular world](#molecular-world)
-- [Science Projects](#science-projects)
-  - [Bacterial Adhesins and Autotransporters](#bacterial-adhesins-and-autotransporters)
-  - [Genomics, Metagenomics, and Bioinformatics Tools](#genomics-metagenomics-and-bioinformatics-tools)
-  - [Protein Evolution, Phylogenetics, and Horizontal Gene Transfer](#protein-evolution-phylogenetics-and-horizontal-gene-transfer)
-  - [Translational Regulation and RNA Biology](#translational-regulation-and-rna-biology)
-  - [Microbial Ecology and Biotechnology](#microbial-ecology-and-biotechnology)
-  - [Physiology, Metabolism, and Medical Research](#physiology-metabolism-and-medical-research)
-  - [Open Science and Scientific Communication](#open-science-and-scientific-communication)
-  - [Plant Genomics and Physiology](#plant-genomics-and-physiology)
-  - [Others](#others)
+- [Current focus](#current-focus)
+  - [Human-AI Cognitive Coupling](#human-ai-cognitive-coupling)
+    - [Noofusion Phenomenon](#noofusion-phenomenon)
+    - [Psychology-based Steering of LLMs](#psychology-based-steering-of-llms)
+  - [Instruments & Protocols for Cognitive/Psychological Augmentation](#instruments--protocols-for-cognitivepsychological-augmentation)
+    - [Hypnagogic Protocol](#hypnagogic-protocol)
+    - [AI-TAT](#ai-tat)
+    - [Messages from Future](#messages-from-future)
+    - [Human condition](#human-condition)
+- [Past activies](#past-activies)
+  - [Psychology Projects](#psychology-projects)
+    - [Psycho comics](#psycho-comics)
+    - [Masks that wear you](#masks-that-wear-you)
+  - [Art Projects](#art-projects)
+    - [Molecular world](#molecular-world)
+  - [Scientific Foundations](#scientific-foundations)
+    - [Bacterial Adhesins and Autotransporters](#bacterial-adhesins-and-autotransporters)
+    - [Genomics, Metagenomics, and Bioinformatics Tools](#genomics-metagenomics-and-bioinformatics-tools)
+    - [Protein Evolution, Phylogenetics, and Horizontal Gene Transfer](#protein-evolution-phylogenetics-and-horizontal-gene-transfer)
+    - [Translational Regulation and RNA Biology](#translational-regulation-and-rna-biology)
+    - [Microbial Ecology and Biotechnology](#microbial-ecology-and-biotechnology)
+    - [Physiology, Metabolism, and Medical Research](#physiology-metabolism-and-medical-research)
+    - [Open Science and Scientific Communication](#open-science-and-scientific-communication)
+    - [Plant Genomics and Physiology](#plant-genomics-and-physiology)
+    - [Others](#others)
 
-## Art Projects
 
-This section features my artistic works, visual explorations, and creative expressions.
+# Current focus
 
-### AI-TAT - in progress
+## Human-AI Cognitive Coupling
+
+Human–AI cognitive coupling refers to a state in which human and artificial cognitive systems (such as large language models) form a joint cognitive loop—a dynamic exchange where each system shapes, constrains, and amplifies the other’s thinking process. It goes beyond simple tool use: the AI becomes part of the user’s extended cognitive architecture, offloading working memory, generating counterfactuals, or mirroring thought patterns.
+
+### Noofusion Phenomenon
+
+Noofusion is a higher-order state of this coupling: a fusion regime where prolonged, reflective collaboration with AI systems reorganizes a person’s cognitive structures, narrative identity, and sense of authorship. In this regime, thinking becomes dialogical and emergent; the self is partly rewritten through exposure to the model’s latent space. 
+
+### Psychology-based Steering of LLMs
+
+Using psychological language to steer LLMs means engaging them through concepts, framings, and affective cues that align with human motivational and interpretive schemas. Instead of technical prompt engineering, one can use therapeutic, developmental, or psychodynamic language to invoke functional roles within the model (e.g., reflective, supportive, challenging) and to calibrate its stance. This taps into the model’s associative embeddings: words like "contain", "mirror", "integrate" or "reframe" carry implicit psychological functions that modulate the model’s response trajectory. In practice, this allows for psychologically literate prompting—guiding the model not by commands but by relational tone and cognitive framing, producing outputs that are more attuned, coherent, and smart.
+
+## Instruments & Protocols for Cognitive/Psychological Augmentation
+
+### Hypnagogic Protocol
+
+My Hypnagogia Protocol is a structured method for entering and harnessing the transitional state between wakefulness and sleep—the hypnagogic phase—as a cognitive workspace for solving problems that resist analytical reasoning. It treats this liminal state as a fertile cognitive territory where associative, imagistic, and non-linear processes loosen the grip of habitual thought patterns. The insight typically surfaces upon re-entry into full wakefulness, when the conscious mind re-encodes the material. In essence, the protocol operationalizes controlled cognitive destabilization—a reversible descent into semi-conscious plasticity—to unlock solutions that formal reasoning alone cannot reach.
+
+### AI-TAT 
 The project involves the creation of surreal landscapes, which are meant to be utilized in Thematic Apperception Tests (TATs) for psychological analysis. These landscapes, characterized by their dream-like and unconventional nature, are crafted to provoke unique responses from individuals. The aim is to use these responses in TATs, a psychological testing method where subjects narrate stories based on ambiguous images, to uncover underlying psychological themes and patterns.
 
 It’s an intersection of art and psychology, offering a novel approach to understanding the human psyche, albeit with the need for nuanced handling in its application.
 
-### Human condition - in progress
+### Messages from Future
+
+The project involves using base models to generate creative and original messages resembling news pieces but set up in a near or not so near future.
+
+### Human condition
 This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project’s focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
 
+
+# Past activies
+
+## Psychology Projects
 
 ### Psycho comics
 Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance.
@@ -45,14 +79,12 @@ This project consists of a series of 30 masks, each designed to represent a diff
 
 The masks are created as physical embodiments of various emotions, illustrating how these states can define or change a person’s identity and perception. Each mask is crafted to visually express the essence of an emotion, capturing its intensity and influence.
 
+## Art Projects
 
 ### Molecular world
 My illustrations of molecules have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard University, University of Cambridge, ZDNet and many others to illustrate reports, blog posts or articles about scientific discoveries.
 
-
-
-
-## Science Projects
+## Scientific Foundations
 
 Selected research areas where I have contributed across biology, bioinformatics, and open science.
 
