@@ -58,12 +58,26 @@ The project involves the creation of surreal landscapes, which are meant to be u
 
 It’s an intersection of art and psychology, offering a novel approach to understanding the human psyche, albeit with the need for nuanced handling in its application.
 
+{% include gallery-carousel.html
+  folder="/assets/images/aitat/"
+  alt_prefix="Molecular illustration"
+  region_label="Gallery of molecular illustrations"
+  hint="Swipe or scroll horizontally to explore the molecules."
+%}
+
 ### Messages from Future
 
 The project involves using base models to generate creative and original messages resembling news pieces but set up in a near or not so near future.
 
 ### Human condition
 This project involves the creation of collages using Gelli prints, designed to represent various psychological human conditions such as fear, uncertainty, and doubt. Gelli printing, a form of monoprinting, is used to create unique textures and patterns, which are then assembled into collages. These collages aim to visually encapsulate the complexities and nuances of different emotional states. The project’s focus is on exploring and depicting the psychological landscape of these conditions, translating abstract feelings into tangible art forms.
+
+{% include gallery-carousel.html
+  folder="/assets/images/hc/"
+  alt_prefix="Molecular illustration"
+  region_label="Gallery of molecular illustrations"
+  hint="Swipe or scroll horizontally to explore the molecules."
+%}
 
 ## Technical 
 
@@ -82,10 +96,24 @@ Project that aims to map behavioral signatures (minor preferences, values, but a
 ### Psycho comics
 Few comics about emotions and motivations. They illustrated my old newsletter “Hyperhuman Tech” that was focused on human performance.
 
+{% include gallery-carousel.html
+  folder="/assets/images/pc/"
+  alt_prefix="Molecular illustration"
+  region_label="Gallery of molecular illustrations"
+  hint="Swipe or scroll horizontally to explore the molecules."
+%}
+
 ### Masks that wear you
 This project consists of a series of 30 masks, each designed to represent a different emotional state, inspired by Lance Baker’s poem “The Masks That Wear Me“. The central theme of the poem, and by extension the masks, is the concept that emotional states possess a controlling influence over individuals. Contrary to the common saying that people ‘wear’ their emotions, Baker’s perspective suggests that emotions, in fact, ‘wear’ the individuals, indicating a more profound and dominating impact.
 
 The masks are created as physical embodiments of various emotions, illustrating how these states can define or change a person’s identity and perception. Each mask is crafted to visually express the essence of an emotion, capturing its intensity and influence.
+
+{% include gallery-carousel.html
+  folder="/assets/images/masks/"
+  alt_prefix="Molecular illustration"
+  region_label="Gallery of molecular illustrations"
+  hint="Swipe or scroll horizontally to explore the molecules."
+%}
 
 ## Art Projects
 
