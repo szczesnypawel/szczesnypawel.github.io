@@ -102,7 +102,7 @@ I make collages using Gelli prints to capture different psychological states—f
 ## Psychology Projects
 
 ### Psycho comics
-A series of comics about emotions and motivations that I created for my old newsletter "Hyperhuman Tech," which was about human performance. Think of them as little lessons in psychology made visual.
+A series of comics about emotions and motivations that I created for my old newsletter "Hyperhuman Tech," (which was about human mental performance). Think of them as little lessons in psychology made visual.
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
@@ -126,7 +126,7 @@ Each mask embodies an emotion, showing how these states can take over and redefi
 ## Art Projects
 
 ### Molecular world
-I create illustrations of molecules that have been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard, Cambridge, and many others to bring scientific discoveries to life in their articles and reports.
+I created illustrations of molecules that had been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard, Cambridge, and many others to bring scientific discoveries to life in their articles and reports.
 
 {% include gallery-carousel.html
   folder="/assets/images/mol/"
