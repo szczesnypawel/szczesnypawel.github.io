@@ -1,7 +1,7 @@
 ---
 title: Why 'Seeing Like a State' Still Matters in the Age of AI
 layout: post
-categories: ['AI']
+categories: ['Noofusion']
 tags: ['legibility', 'illegibility', 'systems']
 excerpt: Tech systems, just like states, look for things that they can measure - and ignore what they can’t. First, they learn which kinds of work are "legible" enough to matter - the "quantifiable" tasks, the "scalable" skills, the "data-driven" professions. Then, having made those jobs visible, they proceed to automate them. 
 ---
