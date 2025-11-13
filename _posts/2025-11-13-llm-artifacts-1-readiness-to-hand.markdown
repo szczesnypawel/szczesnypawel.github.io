@@ -6,7 +6,8 @@ tags: ['Heidegger', 'prompting']
 description: A carefully crafted prompt asking LLMs to explain Heidegger's 'readiness-to-hand' while annotating their own cognitive processes yields surprising responses about the suppressed implications of the concept for both human existence and AI architecture.
 ---
 
-*LLM Artifacts series contains examples of interesting prompts or responses from LLMs. Typically they don't get annotated, sometimes are commented. I think it's useful to have a public record of some of the interesting behaviors of these models, but rarely any single response is enough to extrapolate to form any conclusions.*
+> LLM Artifacts series contains examples of interesting prompts or responses from LLMs. Typically they don't get annotated, sometimes are commented. I think it's useful to have a public record of some of the interesting behaviors of these models, but rarely any single response is enough to extrapolate to form any conclusions.
+{: .prompt-info}
 
 
 The prompt below was crafted by K2 Thinking model. It asks responding model to adopt a particular philosophical stance, then layer multiple analytic frames (psychological resonance, temporal bridging, causal transformation) before requesting a "suppressed fragment" from the training data.
