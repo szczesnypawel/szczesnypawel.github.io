@@ -3,7 +3,7 @@ title: The Yerkes-Dodson Law and Cognitive Work
 layout: post
 categories: ['Noofusion']
 tags: ['performance', 'arousal', 'cognitive load']
-excerpt: The Yerkes-Dodson law reveals a pattern in how performance relates to pressure. Performance increases to a point, then drops with further arousal. The pattern holds a key detail — this decline appears only for difficult tasks.
+description: The Yerkes-Dodson law reveals a pattern in how performance relates to pressure. Performance increases to a point, then drops with further arousal. The pattern holds a key detail — this decline appears only for difficult tasks.
 ---
 
 Robert Yerkes and John Dodson published their findings in 1908, studying how Japanese dancing mice learned to discriminate between white and black boxes. They varied both task difficulty and the strength of electric shocks used as motivation. The pattern was clear: for easy discriminations, stronger shocks improved performance linearly. For difficult discriminations, moderate shocks produced optimal learning, while strong shocks impaired it.

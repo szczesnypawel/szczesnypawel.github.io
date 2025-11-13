@@ -3,7 +3,7 @@ title: Behavioral Signatures of Large Language Models
 layout: post
 categories: ['Behavioral signatures']
 tags: ['behavior', 'llm', 'behavioral signature']
-excerpt: Many power users developed their own informal taxonomies for differences in LLMs behavior. One model is the poet-philosopher, another the pragmatic engineer, a third the cynical analyst. These mental shortcuts help to choose which model to use for which task, how to phrase prompts, what to expect in return. But metaphors and intuition only take us so far, especially when we're building production systems that need consistency and predictability.
+description: Many power users developed their own informal taxonomies for differences in LLMs behavior. One model is the poet-philosopher, another the pragmatic engineer, a third the cynical analyst. These mental shortcuts help to choose which model to use for which task, how to phrase prompts, what to expect in return. But metaphors and intuition only take us so far, especially when we're building production systems that need consistency and predictability.
 ---
 
 Anyone who's worked enough with multiple large language models has noticed something curious. Even successive versions from the same company feel different. One update might make the model more cautious, another more verbose. Switch between providers and the differences become even more pronounced. One model invariably responds in crisp bullet points. Another prefers flowing prose. A third favors short, staccato paragraphs.
