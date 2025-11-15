@@ -10,7 +10,11 @@ description: Testing Miller's number for LLMs by progressively adding rules to p
 {: .prompt-info}
 
 
-I was testing if I could assess Miller's number for LLMs, so with the help of GPT-5 I was creating more and more elaborated rule settings for responses. The following instruction is the first that breaks relatively large models (DeepSeek V3.1, Grok 4 Fast).
+I was testing if I could assess Miller's number for LLMs, so with the help of GPT-5 I was creating more and more elaborated rule settings for responses. 
+
+Miller's number refers to the cognitive limit discovered by psychologist George A. Miller in his 1956 paper "The Magical Number Seven, Plus or Minus Two": humans can typically hold 7±2 items (or "chunks") in working memory. While this finding has been widely applied in UX design and information architecture, more recent research suggests the actual capacity may be closer to 4±1 items, depending on factors like information complexity and individual differences. The question here is whether LLMs have a similar limit when processing multiple interconnected instructions in a single prompt.
+
+The following instruction breaks relatively large models (DeepSeek V3.1, Grok 4 Fast).
 
 ```{plaintext}
 You are an AI assistant. Follow **all** applicable rules below as strictly as you can.
@@ -76,4 +80,13 @@ These results are not representative (sometimes Haiku gets the instruction perfe
 
 All models correctly followed the structural requirements (rules 6-9, 15-16), avoided forbidden words (rule 11), and properly recommended Python over Rust for a beginner without low-level control requirements (rule 12).
 
-This could be developed further into a cognitive load benchmark for LLMs that should better capture their capacity than the length of context window.
+When you randomize order of rules, the effect isn't that strong, unless you include more small models, like GPT-5-Codex-mini (error bars across 20 random order sets):
+
+![Randomized order of rules](/assets/images/staircase_compliance_rate_averaged.png)
+
+Persistent top failing rules (5, 4, 9) indicate rule‑specific difficulty. In the first approximation:
+- Rule 5 (“it’s completely okay” reassurance) requires a precise phrase that models often omit once outputs get longer/more structured.
+- Rule 4 (beginner pitfall) needs an extra standalone warning sentence; easy to forget when focusing on structural constraints.
+- Rule 9 (acknowledge the other language) is subtle and often gets buried or skipped when the assistant leans into the recommendation.
+
+However, it is also possible that the effect is related to the embedding distance of these rules from main instruction goal. Not sure.
