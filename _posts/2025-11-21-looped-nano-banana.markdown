@@ -2,10 +2,20 @@
 title: Looped Nano Banana via Replicate
 layout: post
 categories: ['Experiments']
-tags: ['llm', 'persuasion', 'influence', 'psychotechnology', 'cognitive-offloading']
-description: 
+tags: ['video-generation', 'replicate', 'nano-banana', 'script']
+description: Using Replicate's nano-banana model to generate video frames with mood modifiers by adding steering phrases to a looped prompt that creates temporal continuity. 
 ---
 
+Nano Banana can be effectively steered when generating consecutive frames via adding steering phrase or word to the classic: "The same scene but 0.1 seconds in the future" looped prompt.
+
+The video below was created from a starting frame with mood modifiers: "calm,calmer,excited,angry,peaceful". Commands and script below.
+
+{% include embed/youtube.html id='ozRi0pK4cSs' %}
+
+
+`python nano_banana_timelapse.py --input-image 9d0yrttezsrm80ctjbwvvdn0nm.jpeg --steps 50 --flow calm,calmer,excited,angry,peaceful`
+
+`ffmpeg -i timelapse_2fps.mp4 -vf "minterpolate=fps=48:mi_mode=mci:me_mode=bidir:mc_mode=aobmc:vsbmc=1" -c:v libx264 -preset slow -crf 18 timelapse_2fps_interpolated.mp4`
 
 
 ```python
@@ -245,5 +255,3 @@ if __name__ == "__main__":
 
 
 ```
-
-{% include embed/youtube.html id='ozRi0pK4cSs' %}
