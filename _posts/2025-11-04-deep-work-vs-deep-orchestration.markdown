@@ -18,10 +18,9 @@ What "deep orchestration" actually demands
 In some scenarios AI assistance flips the task. Generation is cheap; verification and integration are expensive. The human becomes the supervisor and integrator of a fast, sometimes brilliant, sometimes wrong collaborator. That role keeps your mind vigilant, judgmental, and holding multiple partial states at once.
 
 Some 2024–2025 studies describe the load:
-
-RCT on experienced developers (Feb-Jun 2025): When 16 open-source veterans used frontier AI tools on their own repos, time moved from writing to reading, validating, and re-prompting. The work got busier, not simpler. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://arxiv.org/abs/2507.09089)
-JD-R (Job Demands-Resources) framing in ACM 2025: AI adds resources (speed, suggestions) and adds demands (monitoring, sensemaking, coordination). [Investigating the Impact of AI-Assisted Tools on Software Practitioner Well-Being](https://dl.acm.org/doi/10.1145/3707640.3731915)
-HCI overviews (2025): Human-AI collaboration pushes "control overhead": planning, decomposition, vetting, and integration that are invisible in the artifact but heavy in cognition. [HUMAN-CENTERED HUMAN-AI COLLABORATION (HCHAC](https://arxiv.org/pdf/2505.22477)
+- RCT on experienced developers (Feb-Jun 2025): When 16 open-source veterans used frontier AI tools on their own repos, time moved from writing to reading, validating, and re-prompting. The work got busier, not simpler. [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://arxiv.org/abs/2507.09089)
+- JD-R (Job Demands-Resources) framing in ACM 2025: AI adds resources (speed, suggestions) and adds demands (monitoring, sensemaking, coordination). [Investigating the Impact of AI-Assisted Tools on Software Practitioner Well-Being](https://dl.acm.org/doi/10.1145/3707640.3731915)
+- HCI overviews (2025): Human-AI collaboration pushes "control overhead": planning, decomposition, vetting, and integration that are invisible in the artifact but heavy in cognition. [HUMAN-CENTERED HUMAN-AI COLLABORATION (HCHAC](https://arxiv.org/pdf/2505.22477)
 
 This is "deep orchestration": you still focus hard, but the focus is supervisory. 
 
