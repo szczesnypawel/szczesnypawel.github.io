@@ -26,7 +26,7 @@ My work in Science Policy & Open Science initiatives reflected a growing recogni
 
 ### The Next Frontier
 
-Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. This insight led to founding **Neurofusion Lab**, where I explored how large language models can serve as mirrors and amplifiers of human cognition — decoding not just what people say, but **how they construct meaning**.
+Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. This insight led to founding **Neurofusion Lab**, where I explored how large language models can serve as mirrors and amplifiers of human cognition — decoding not just what people say, but **how they construct meaning**. I left the lab and currently work as an independent researcher and designer of human-AI cognitive systems.
 
 My work blends **AI modeling, psychology, and narrative analysis** to understand how technology reshapes human intention, identity, and agency.
 
