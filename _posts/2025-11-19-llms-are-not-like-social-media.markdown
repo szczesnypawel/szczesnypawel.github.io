@@ -1,5 +1,5 @@
 ---
-title: LLMs Are Not Like Social Media
+title: "LLMs Are Not Like Social Media"
 layout: post
 categories: ['Noofusion']
 tags: ['social media', 'psychology', 'influence', 'relationships', 'cognition']
