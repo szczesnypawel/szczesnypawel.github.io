@@ -3,7 +3,7 @@ title: "LLMs Are Not Like Social Media"
 layout: post
 categories: ['Noofusion']
 tags: ['social media', 'psychology', 'influence', 'relationships', 'cognition']
-description: LLMs differ from social media in psychological influence: social media is broadcast and performative, amplifying feelings about others, while LLMs are private 1:1 interactions that amplify feelings about ourselves and represent a new class of relationship and layer of cognition.
+description: "LLMs differ from social media in psychological influence: social media is broadcast and performative, amplifying feelings about others, while LLMs are private 1:1 interactions that amplify feelings about ourselves and represent a new class of relationship and layer of cognition."
 ---
 LLMs are different from social media when it comes to psychological influence.
 
