@@ -5,6 +5,13 @@ order: 5
 toc: true
 ---
 
+All my post-academia projects are variations on one question:
+How do media, tools and AI systems engineer cognitive states — in individuals and groups?
+
+
+Some of these are explicitly research (LLM behavior, human–AI coupling). Some look like art. In practice, they are experiments in cognitive ergonomics: ways of nudging attention, narrative, and emotional tone into new patterns.
+
+
 ## Table of Contents
 
 - [Current focus](#current-focus)
@@ -40,19 +47,54 @@ toc: true
 
 ## Human-AI Cognitive Coupling
 
-Human-AI cognitive coupling happens when you and an AI (like a large language model) start thinking together in a loop—each one shaping and amplifying the other's thoughts. It's more than just using a tool: the AI becomes part of how you think, helping hold ideas in your mind, suggesting alternatives, or reflecting your patterns back to you.
+**Experiment:** What happens when you and a model think in a loop long enough that it becomes a joint mind?
+
+Human–AI cognitive coupling is what occurs when an AI system (typically a large language model) stops being “a tool you query” and starts functioning as part of your working memory, reflective surface, and simulator.
+
+I study:
+- how this coupling changes attention, confidence and sense of agency,
+- which interaction patterns make people more sovereign, and which make them more dependent,
+- how to design protocols and guardrails so the coupling is useful rather than corrosive.
 
 ### Noofusion Phenomenon
 
-Noofusion is what happens when you work with AI for long enough that it starts to change how you think. Through ongoing, reflective collaboration, your thinking patterns, your stories about yourself, and even your sense of who's doing the thinking begin to shift. Your thoughts become more like a conversation with the AI, and something new emerges—a version of yourself that's been reshaped by working with the model. 
+**Experiment:** How does long-term collaboration with AI rewrite our inner narrator?
+
+Noofusion is my term for the durable change in your thinking style and self-story that emerges from sustained work with AI. Over time, your inner monologue starts to:
+- anticipate the model,
+- outsource parts of reasoning to it,
+- blur the boundary of “who” is doing the thinking.
+
+I treat noofusion as a phenomenon to be mapped and engineered: Which practices lead to healthier, more expansive cognitive states - and which drift toward dependency, flattening, or self-erasure?
 
 ### Psychology-based Steering of LLMs
 
-You can guide LLMs by talking to them in psychological terms—using the kind of language therapists, coaches, or psychologists use. Instead of technical prompts, you can use words like "reflect," "support," or "challenge" to bring out different modes in the model. These psychological terms—like "contain," "mirror," "integrate," or "reframe"—carry implicit meanings that shift how the model responds. In practice, you're guiding the AI not through commands, but through tone and framing, which produces responses that feel more thoughtful, coherent, and attuned.
+**Experiment:** Can we steer AI behavior using psychological, not technical, language?
+
+Instead of prompt-engineering jargon, I use psychological verbs to guide models: contain, mirror, reframe, challenge, support, de-escalate.
+
+These words smuggle in:
+- expectations about relational stance (supportive vs confrontational),
+- epistemic posture (curious vs certain),
+- and emotional temperature.
+
+The project explores:
+- how different "psychological postures" change model output,
+- how to design interaction styles that make LLMs better thinking partners,
+- and where this kind of steering breaks or backfires.
 
 ### Behavioral Signatures of LLMs
 
-Project that aims to map behavioral signatures (minor preferences, values, but also behaviors under constraints) of LLMs to better guide the model choice. Planning to open source the repo, project done with Konrad Debski.
+*(with Konrad Dębski)*
+
+**Experiment:** How do different models “behave” under pressure?
+
+This project maps behavioral signatures of LLMs: their minor preferences, value leans, and tendencies under constraints (time pressure, ambiguity, ethical edge cases, conflicting goals).
+
+Goals:
+- build a taxonomy of model behaviors that’s actually useful for practitioners,
+- help teams choose and combine models based on behavioral fit, not just benchmark scores,
+- open source the repository so others can probe, critique and extend it.
 
 ![bsb-radar](/assets/images/bsb_radar.png)
 
@@ -60,12 +102,29 @@ Project that aims to map behavioral signatures (minor preferences, values, but a
 
 ### Hypnagogic Protocol
 
-My Hypnagogic Protocol is a structured way to use that fuzzy state between being awake and asleep to solve problems that don't respond to normal thinking. In this twilight zone, your mind works differently—more associative, visual, and free from your usual thought patterns. The trick is to let yourself drift into that state with a problem in mind, then catch the insights when you wake back up. Basically, it's a controlled way to destabilize your thinking temporarily, letting your mind find solutions that logical analysis can't reach.
+**Experiment:** Can we reliably use the edge of sleep as a problem-solving engine?
 
-### AI-TAT 
-I create surreal, dreamlike landscapes to use in Thematic Apperception Tests (TATs)—a psychological method where people tell stories about ambiguous images. These unusual scenes are designed to trigger unique responses that reveal underlying psychological patterns and themes.
+The Hypnagogic Protocol is a structured way to work with the twilight state between wakefulness and sleep as a deliberate cognitive tool.
 
-It's where art meets psychology, offering a fresh way to understand how people think and feel, though it needs careful interpretation.
+Core idea:
+- enter hypnagogia with a specific question or problem,
+- let the mind drift into more associative, symbolic, and less censored territory,
+- capture the material on re-entry using prompts and recording rituals.
+
+It’s a method for temporary, controlled destabilization of the usual cognitive manifold to access solutions that analytic thinking can’t easily reach.
+
+### AI-TAT (AI Thematic Apperception Test)
+
+**Experiment:** How do people project themselves into AI-generated ambiguity?
+
+I create surreal, dreamlike images as stimuli for Thematic Apperception-style tasks. Participants tell stories about these ambiguous scenes.
+
+The project explores:
+- how people project their own narratives, fears, and wishes into AI-generated worlds,
+- whether AI-crafted ambiguity elicits different themes than traditional TAT cards,
+- how to use this safely as a tool for self-exploration, not diagnosis.
+
+It sits at the intersection of projective psychology, art, and cognitive state design.
 
 {% include gallery-carousel.html
   folder="/assets/images/aitat/"
@@ -78,7 +137,14 @@ It's where art meets psychology, offering a fresh way to understand how people t
 
 ### Messages from Future
 
-I use base AI models to create fictional news pieces from the future—some near, some far off. They're meant to be creative and thought-provoking glimpses of what might come.
+**Experiment:** How do fictional future news stories shift our sense of possibility and risk?
+
+Using base AI models, I generate fictional news dispatches from various futures — near and far. They’re not predictions; they’re cognitive probes.
+
+The aim is to:
+- momentarily relocate people into a different cognitive climate (where certain assumptions are already true),
+- surface emotional and ethical reactions to possible trajectories,
+- use narrative as a way to rehearse futures before we build or avoid them.
 
 {% include gallery-carousel.html
   folder="/assets/images/mff/"
@@ -88,7 +154,17 @@ I use base AI models to create fictional news pieces from the future—some near
 %}
 
 ### Human condition
-I make collages using Gelli prints to capture different psychological states—fear, uncertainty, doubt, and more. Gelli printing creates unique textures and patterns that I assemble to visually express the complexity of these emotions. It's about taking abstract feelings and making them visible, translating the inner psychological landscape into something you can see and feel.
+
+**Experiment:** Can we give complex emotional states a tactile, visual form that resonates before it’s understood?
+
+In Human condition I use Gelli printing and collage to materialize states like fear, uncertainty, doubt, and quiet resilience.
+
+The process:
+- create textured, non-reproducible prints,
+- assemble them into collages that encode emotional tensions (fragmentation vs cohesion, openness vs enclosure, etc.),
+- invite viewers to notice what these forms evoke before they name it.
+
+It’s a way of turning internal psychological weather into something you can see, feel, and relate to.
 
 {% include gallery-carousel.html
   folder="/assets/images/hc/"
@@ -102,7 +178,15 @@ I make collages using Gelli prints to capture different psychological states—f
 ## Psychology Projects
 
 ### Psycho comics
-A series of comics about emotions and motivations that I created for my old newsletter "Hyperhuman Tech," (which was about human mental performance). Think of them as little lessons in psychology made visual.
+
+**Experiment:** How far can we compress psychological insights into tiny visual episodes?
+
+A series of short comics about emotions and motivation, originally created for my “Hyperhuman Tech” newsletter on mental performance.
+
+Each strip:
+- distills one psychological pattern into a simple, visual micro-story,
+- aims to produce a quick “aha” shift rather than explanation,
+- functions as a repeatable micro-intervention in how you frame your own behavior.
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
@@ -112,9 +196,17 @@ A series of comics about emotions and motivations that I created for my old news
 %}
 
 ### Masks that wear you
-A series of 30 masks, each representing a different emotional state, inspired by Lance Baker's poem "The Masks That Wear Me." The core idea is that we don't just wear our emotions—they wear us. Emotions have a controlling influence that shapes who we are and how we see the world.
 
-Each mask embodies an emotion, showing how these states can take over and redefine us. They're designed to capture the intensity and power of what we feel.
+**Experiment:** What happens when emotions are framed as entities that inhabit us, not just states we have?
+
+A set of 30 masks, each embodying a distinct emotional state, inspired by Lance Baker’s poem “The Masks That Wear Me.”
+
+The core idea:
+- we don’t just wear emotions — they wear us,
+- each emotion can temporarily take over our perspective, posture, and narrative,
+- making them visible and external invites a different relationship to them.
+
+The masks are designed as embodied diagrams of emotional takeover, capturing how feelings can possess, distort, and sometimes protect the self.
 
 {% include gallery-carousel.html
   folder="/assets/images/masks/"
