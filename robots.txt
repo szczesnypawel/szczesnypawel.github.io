@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /norobots/
+
+Sitemap: https://szczesnypawel.github.io/sitemap.xml
