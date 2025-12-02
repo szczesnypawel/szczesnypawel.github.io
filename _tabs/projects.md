@@ -6,7 +6,7 @@ toc: true
 ---
 
 All my post-academia projects are variations on one question:
-How do media, tools and AI systems engineer cognitive states — in individuals and groups?
+How do media, tools and AI systems engineer cognitive states - in individuals and groups?
 
 
 Some of these are explicitly research (LLM behavior, human–AI coupling). Some look like art. In practice, they are experiments in cognitive ergonomics: ways of nudging attention, narrative, and emotional tone into new patterns.
