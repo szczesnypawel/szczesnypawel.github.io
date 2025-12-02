@@ -65,7 +65,7 @@ Noofusion is my term for the durable change in your thinking style and self-stor
 - outsource parts of reasoning to it,
 - blur the boundary of “who” is doing the thinking.
 
-I treat noofusion as a phenomenon to be mapped and engineered: Which practices lead to healthier, more expansive cognitive states - and which drift toward dependency, flattening, or self-erasure?
+I treat noofusion as a phenomenon to be mapped and engineered. Which practices lead to healthier, more expansive cognitive states - and which drift toward dependency, flattening, or self-erasure?
 
 ### Psychology-based Steering of LLMs
 
@@ -139,7 +139,7 @@ It sits at the intersection of projective psychology, art, and cognitive state d
 
 **Experiment:** How do fictional future news stories shift our sense of possibility and risk?
 
-Using base AI models, I generate fictional news dispatches from various futures — near and far. They’re not predictions; they’re cognitive probes.
+Using base AI models, I generate fictional news dispatches from various futures - near and far. Think of them as cognitive probes.
 
 The aim is to:
 - momentarily relocate people into a different cognitive climate (where certain assumptions are already true),
@@ -181,7 +181,7 @@ It’s a way of turning internal psychological weather into something you can se
 
 **Experiment:** How far can we compress psychological insights into tiny visual episodes?
 
-A series of short comics about emotions and motivation, originally created for my “Hyperhuman Tech” newsletter on mental performance.
+A series of single-panel comics about emotions and motivation, originally created for my "Hyperhuman Tech" newsletter on mental performance.
 
 Each strip:
 - distills one psychological pattern into a simple, visual micro-story,
@@ -199,7 +199,7 @@ Each strip:
 
 **Experiment:** What happens when emotions are framed as entities that inhabit us, not just states we have?
 
-A set of 30 masks, each embodying a distinct emotional state, inspired by Lance Baker’s poem “The Masks That Wear Me.”
+A set of 30 masks, each embodying a distinct emotional state, inspired by Lance Baker’s poem "The Masks That Wear Me."
 
 The core idea:
 - we don’t just wear emotions — they wear us,
