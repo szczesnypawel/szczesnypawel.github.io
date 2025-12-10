@@ -24,7 +24,7 @@ description: >-
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://szczesnypawel.github.io"
+url: "https://pawelszczesny.pages.dev"
 
 github:
   username: szczesnypawel
@@ -39,14 +39,14 @@ social:
   email: ps@devnovo.io
   links:
     # The first element serves as the copyright owner's link
-    - https://szczesnypawel.github.io
+    - https://pawelszczesny.pages.dev
     - https://twitter.com/pawelpszczesny
     - https://github.com/szczesnypawel
     - https://www.linkedin.com/in/pawelpszczesny
 
 # Site Verification Settings 
 webmaster_verifications:
-  google: cRBH_mh8NRmRPorlnLRXfhgR1nMRCb9jSPS22O3Leog
+  google: A_19TiMboPq8CtFRoZGy5qNOTNxMtQOYET9KoQwn_-8
   bing:
   alexa:
   yandex:
