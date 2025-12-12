@@ -1,7 +1,7 @@
 ---
 title: "Thalidomide and Mental Health AI Tools"
 layout: post
-categories: ['Noofusion']
+categories: ['Cognitive Sovereignty']
 tags: ['mental health', 'AI safety', 'regulation', 'ethics', 'vulnerable populations']
 description: Using thalidomide as an analogy, this post argues that AI mental health tools need rigorous safety evaluation before deployment. Despite known failure modes and inadequate responses to crisis scenarios, the tech industry's "move fast and break things" approach is rolling out these systems to vulnerable populations like teenagers without proper regulatory oversight.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "LLM Artifacts - #1 Readiness-To-Hand"
 layout: post
-categories: ['LLM Artifacts']
+categories: ['Artifacts']
 tags: ['Heidegger', 'prompting']
 description: A carefully crafted prompt asking LLMs to explain Heidegger's 'readiness-to-hand' while annotating their own cognitive processes yields surprising responses about the suppressed implications of the concept for both human existence and AI architecture.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Looped Nano Banana via Replicate
 layout: post
-categories: ['Experiments']
+categories: ['Artifacts']
 tags: ['video-generation', 'replicate', 'nano-banana', 'script']
 description: Using Replicate's nano-banana model to generate video frames with mood modifiers by adding steering phrases to a looped prompt that creates temporal continuity. 
 ---

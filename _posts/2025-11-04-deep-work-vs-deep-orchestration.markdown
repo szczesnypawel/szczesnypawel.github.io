@@ -1,7 +1,7 @@
 ---
 title: Deep Work vs Deep Orchestration
 layout: post
-categories: ['Noofusion']
+categories: ['Cognitive Sovereignty']
 tags: ['deep-work', 'orchestration', 'cognitive overload', 'productivity', 'decision making', 'cognitive offloading']
 description: AI assistance shifts work from deep work (focused production) to deep orchestration (supervisory judgment and integration). This new mode increases decision volume, control overhead, and cognitive load, while potentially making us more suggestible when executive control is depleted.
 ---

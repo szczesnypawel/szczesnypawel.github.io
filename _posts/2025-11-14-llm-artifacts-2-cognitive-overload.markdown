@@ -1,7 +1,7 @@
 ---
 title: "LLM Artifacts - #2 Cognitive Overload of LLMs"
 layout: post
-categories: ['LLM Artifacts']
+categories: ['Artifacts']
 tags: ['cognitive overload', 'prompting', 'benchmarking']
 description: Testing Miller's number for LLMs by progressively adding rules to prompts reveals that around 15-16 interconnected instructions in a single cause cognitive overload for larger models.
 ---

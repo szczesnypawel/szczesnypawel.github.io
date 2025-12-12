@@ -1,7 +1,7 @@
 ---
 title: Model Stability Assessment
 layout: post
-categories: ['Behavioral signatures']
+categories: ['LLM Behavior']
 tags: ['llm', 'stability', 'evaluation', 'testing', 'reliability']
 description: Testing LLM stability by measuring sensitivity to small perturbations like name changes and CV format variations. Results show newer models are often more capable but also more sensitive to input variations than their predecessors, with well-known names particularly destabilizing assessments.
 ---

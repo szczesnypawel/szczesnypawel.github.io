@@ -6,125 +6,83 @@ toc: true
 ---
 
 All my post-academia projects are variations on one question:
-How do media, tools and AI systems engineer cognitive states - in individuals and groups?
+**How do media, tools, and AI systems engineer cognitive states—in individuals and groups?**
 
+Some are explicitly research. Some look like art. In practice, they are experiments in cognitive ergonomics: ways of nudging attention, narrative, and emotional tone into new patterns.
 
-Some of these are explicitly research (LLM behavior, human–AI coupling). Some look like art. In practice, they are experiments in cognitive ergonomics: ways of nudging attention, narrative, and emotional tone into new patterns.
+---
 
+# Current Focus
 
-## Table of Contents
+## Cognitive Sovereignty
 
-- [Current focus](#current-focus)
-  - [Human-AI Cognitive Coupling](#human-ai-cognitive-coupling)
-    - [Noofusion Phenomenon](#noofusion-phenomenon)
-    - [Psychology-based Steering of LLMs](#psychology-based-steering-of-llms)
-    - [Behavioral Signatures of LLMs](#behavioral-signatures-of-llms)
-  - [Cognitive/Psychological Methods](#cognitivepsychological-methods)
-    - [Hypnagogic Protocol](#hypnagogic-protocol)
-    - [AI-TAT](#ai-tat)
-  - [Psychology-Inspired Creative Work](#psychology-inspired-creative-work)
-    - [Messages from Future](#messages-from-future)
-    - [Human condition](#human-condition)
-- [Past activies](#past-activies)
-  - [Psychology Projects](#psychology-projects)
-    - [Psycho comics](#psycho-comics)
-    - [Masks that wear you](#masks-that-wear-you)
-  - [Art Projects](#art-projects)
-    - [Molecular world](#molecular-world)
-  - [Scientific Foundations](#scientific-foundations)
-    - [Bacterial Adhesins and Autotransporters](#bacterial-adhesins-and-autotransporters)
-    - [Genomics, Metagenomics, and Bioinformatics Tools](#genomics-metagenomics-and-bioinformatics-tools)
-    - [Protein Evolution, Phylogenetics, and Horizontal Gene Transfer](#protein-evolution-phylogenetics-and-horizontal-gene-transfer)
-    - [Translational Regulation and RNA Biology](#translational-regulation-and-rna-biology)
-    - [Microbial Ecology and Biotechnology](#microbial-ecology-and-biotechnology)
-    - [Physiology, Metabolism, and Medical Research](#physiology-metabolism-and-medical-research)
-    - [Open Science and Scientific Communication](#open-science-and-scientific-communication)
-    - [Plant Genomics and Physiology](#plant-genomics-and-physiology)
-    - [Others](#others)
+The overarching theme: how individuals and organizations navigate hybrid intelligence without losing autonomy. Not resisting technology, but learning to steer it without being rewritten by it.
 
+**Related posts:**
+- [LLM Does Not Change Me](/posts/llm-does-not-change-me/) — why "it's just a tool" is insufficient
+- [Deep Work vs Deep Orchestration](/posts/deep-work-vs-deep-orchestration/) — how AI shifts cognitive labor from production to judgment
+- [Thalidomide and Mental Health AI Tools](/posts/thalidomide-and-mental-health-ai-tools/) — safety standards for vulnerable populations
 
-# Current focus
+---
 
-## Human-AI Cognitive Coupling
+## Noofusion
 
 **Experiment:** What happens when you and a model think in a loop long enough that it becomes a joint mind?
 
-Human–AI cognitive coupling is what occurs when an AI system (typically a large language model) stops being “a tool you query” and starts functioning as part of your working memory, reflective surface, and simulator.
+Noofusion is the durable change in thinking style and self-story that emerges from sustained work with AI. Over time, your inner monologue starts to anticipate the model, outsource reasoning to it, blur the boundary of "who" is doing the thinking.
 
-I study:
-- how this coupling changes attention, confidence and sense of agency,
-- which interaction patterns make people more sovereign, and which make them more dependent,
-- how to design protocols and guardrails so the coupling is useful rather than corrosive.
+I treat noofusion as a phenomenon to map and engineer. Which practices lead to healthier, more expansive cognitive states—and which drift toward dependency, flattening, or self-erasure?
 
-### Noofusion Phenomenon
+**Related posts:**
+- [LLMs Are Not Like Social Media](/posts/llms-are-not-like-social-media/) — why the psychological effect is qualitatively different
+- [Why LLMs Are Receptive to Psychology Language](/posts/why-llms-are-receptive-to-psychology-language/) — how psychological cues unlock specific reasoning clusters
+- [Yerkes-Dodson Law and Cognitive Work](/posts/yerkes-dodson-law-and-cognitive-work/) — arousal, fatigue, and the coupling trap
 
-**Experiment:** How does long-term collaboration with AI rewrite our inner narrator?
+---
 
-Noofusion is my term for the durable change in your thinking style and self-story that emerges from sustained work with AI. Over time, your inner monologue starts to:
-- anticipate the model,
-- outsource parts of reasoning to it,
-- blur the boundary of “who” is doing the thinking.
+## Illegibility
 
-I treat noofusion as a phenomenon to be mapped and engineered. Which practices lead to healthier, more expansive cognitive states - and which drift toward dependency, flattening, or self-erasure?
+Drawing on James C. Scott's work: how to remain too rich, too fluid, too context-dependent to be neatly categorized by optimization systems.
 
-### Psychology-based Steering of LLMs
+**Related posts:**
+- [Why 'Seeing Like a State' Still Matters](/posts/seeing-like-a-state/) — legibility as the logic of both states and tech
+- [Notes on Creativity](/posts/notes-on-creativity/) — creativity as survival against selection pressure
+- [Art People Want Now](/posts/art-people-want-now/) — experience as resistance to commodification
 
-**Experiment:** Can we steer AI behavior using psychological, not technical, language?
+---
 
-Instead of prompt-engineering jargon, I use psychological verbs to guide models: contain, mirror, reframe, challenge, support, de-escalate.
-
-These words smuggle in:
-- expectations about relational stance (supportive vs confrontational),
-- epistemic posture (curious vs certain),
-- and emotional temperature.
-
-The project explores:
-- how different "psychological postures" change model output,
-- how to design interaction styles that make LLMs better thinking partners,
-- and where this kind of steering breaks or backfires.
+## LLM Behavior
 
 ### Behavioral Signatures of LLMs
+*(with Konrad Dębski)*
 
-*(with Konrad Dębski)*
+Mapping reproducible tendencies: how models structure information, when they hedge, how strictly they follow instructions, what tone they default to. Not what a model *can* do, but *how* it will do it.
 
-**Experiment:** How do different models “behave” under pressure?
-
-This project maps behavioral signatures of LLMs: their minor preferences, value leans, and tendencies under constraints (time pressure, ambiguity, ethical edge cases, conflicting goals).
-
-Goals:
-- build a taxonomy of model behaviors that’s actually useful for practitioners,
-- help teams choose and combine models based on behavioral fit, not just benchmark scores,
-- open source the repository so others can probe, critique and extend it.
+**Related posts:**
+- [Behavioral Signatures of Large Language Models](/posts/behavioral-signatures-of-LLMs/) — the BSB framework and value-based analysis
+- [Model Stability Assessment](/posts/model-stability/) — sensitivity to perturbations like name changes and format variations
 
 ![bsb-radar](/assets/images/bsb_radar.png)
+
+### Psychology-based Steering
+
+Using psychological verbs (contain, mirror, reframe, challenge) instead of prompt-engineering jargon to guide model behavior.
+
+**Related posts:**
+- [Psychological Modulators](/posts/psychology-modulators/) — how simulating human psychology became a steering strategy
+- [Stabilizing and Testing LLM-based Agents](/posts/stabilizing-and-testing-llm-based-agents-in-less-than-24hrs/) — statistical approaches to prompt stability
+
+---
 
 ## Cognitive/Psychological Methods
 
 ### Hypnagogic Protocol
 
-**Experiment:** Can we reliably use the edge of sleep as a problem-solving engine?
-
-The Hypnagogic Protocol is a structured way to work with the twilight state between wakefulness and sleep as a deliberate cognitive tool.
-
-Core idea:
-- enter hypnagogia with a specific question or problem,
-- let the mind drift into more associative, symbolic, and less censored territory,
-- capture the material on re-entry using prompts and recording rituals.
-
-It’s a method for temporary, controlled destabilization of the usual cognitive manifold to access solutions that analytic thinking can’t easily reach.
+A structured way to use the twilight state between wakefulness and sleep as a deliberate cognitive tool. Enter hypnagogia with a specific question, let the mind drift into associative territory, capture material on re-entry.
 
 ### AI-TAT (AI Thematic Apperception Test)
 
-**Experiment:** How do people project themselves into AI-generated ambiguity?
-
-I create surreal, dreamlike images as stimuli for Thematic Apperception-style tasks. Participants tell stories about these ambiguous scenes.
-
-The project explores:
-- how people project their own narratives, fears, and wishes into AI-generated worlds,
-- whether AI-crafted ambiguity elicits different themes than traditional TAT cards,
-- how to use this safely as a tool for self-exploration, not diagnosis.
-
-It sits at the intersection of projective psychology, art, and cognitive state design.
+Surreal, AI-generated images as stimuli for projective storytelling. Explores how people project their narratives, fears, and wishes into ambiguous scenes.
 
 {% include gallery-carousel.html
   folder="/assets/images/aitat/"
@@ -133,18 +91,24 @@ It sits at the intersection of projective psychology, art, and cognitive state d
   hint="Swipe or scroll horizontally"
 %}
 
+---
+
+## Artifacts & Experiments
+
+A running collection of interesting prompts, model responses, and technical experiments.
+
+**Related posts:**
+- [LLM Artifacts #1: Readiness-to-Hand](/posts/llm-artifacts-1-readiness-to-hand/) — Heidegger and suppressed implications
+- [LLM Artifacts #2: Cognitive Overload](/posts/llm-artifacts-2-cognitive-overload/) — testing Miller's number for LLMs
+- [Looped Nano Banana](/posts/looped-nano-banana/) — steering video generation with mood modifiers
+
+---
+
 ## Psychology-Inspired Creative Work
 
 ### Messages from Future
 
-**Experiment:** How do fictional future news stories shift our sense of possibility and risk?
-
-Using base AI models, I generate fictional news dispatches from various futures - near and far. Think of them as cognitive probes.
-
-The aim is to:
-- momentarily relocate people into a different cognitive climate (where certain assumptions are already true),
-- surface emotional and ethical reactions to possible trajectories,
-- use narrative as a way to rehearse futures before we build or avoid them.
+Fictional news dispatches from various futures—cognitive probes that momentarily relocate people into different assumption spaces.
 
 {% include gallery-carousel.html
   folder="/assets/images/mff/"
@@ -153,40 +117,26 @@ The aim is to:
   hint="Swipe or scroll horizontally"
 %}
 
-### Human condition
+### Human Condition
 
-**Experiment:** Can we give complex emotional states a tactile, visual form that resonates before it’s understood?
-
-In Human condition I use Gelli printing and collage to materialize states like fear, uncertainty, doubt, and quiet resilience.
-
-The process:
-- create textured, non-reproducible prints,
-- assemble them into collages that encode emotional tensions (fragmentation vs cohesion, openness vs enclosure, etc.),
-- invite viewers to notice what these forms evoke before they name it.
-
-It’s a way of turning internal psychological weather into something you can see, feel, and relate to.
+Gelli printing and collage to materialize emotional states: fear, uncertainty, doubt, quiet resilience.
 
 {% include gallery-carousel.html
   folder="/assets/images/hc/"
-  alt_prefix="Molecular illustration"
-  region_label="Gallery of molecular illustrations"
+  alt_prefix="Human condition"
+  region_label="Gallery of human condition works"
   hint="Swipe or scroll horizontally"
 %}
 
-# Past activies
+---
+
+# Past Activities
 
 ## Psychology Projects
 
-### Psycho comics
+### Psycho Comics
 
-**Experiment:** How far can we compress psychological insights into tiny visual episodes?
-
-A series of single-panel comics about emotions and motivation, originally created for my "Hyperhuman Tech" newsletter on mental performance.
-
-Each strip:
-- distills one psychological pattern into a simple, visual micro-story,
-- aims to produce a quick “aha” shift rather than explanation,
-- functions as a repeatable micro-intervention in how you frame your own behavior.
+Single-panel comics distilling psychological patterns into visual micro-stories.
 
 {% include gallery-carousel.html
   folder="/assets/images/pc/"
@@ -195,18 +145,9 @@ Each strip:
   hint="Swipe or scroll horizontally"
 %}
 
-### Masks that wear you
+### Masks That Wear You
 
-**Experiment:** What happens when emotions are framed as entities that inhabit us, not just states we have?
-
-A set of 30 masks, each embodying a distinct emotional state, inspired by Lance Baker’s poem "The Masks That Wear Me."
-
-The core idea:
-- we don’t just wear emotions — they wear us,
-- each emotion can temporarily take over our perspective, posture, and narrative,
-- making them visible and external invites a different relationship to them.
-
-The masks are designed as embodied diagrams of emotional takeover, capturing how feelings can possess, distort, and sometimes protect the self.
+30 masks embodying distinct emotional states, inspired by Lance Baker's poem. We don't just wear emotions—they wear us.
 
 {% include gallery-carousel.html
   folder="/assets/images/masks/"
@@ -217,8 +158,9 @@ The masks are designed as embodied diagrams of emotional takeover, capturing how
 
 ## Art Projects
 
-### Molecular world
-I created illustrations of molecules that had been used by Imperial College London, Science, The Scientist, Wired, Scientific American, The Verge, Harvard, Cambridge, and many others to bring scientific discoveries to life in their articles and reports.
+### Molecular World
+
+Scientific illustrations used by Imperial College London, Science, The Scientist, Wired, Scientific American, Harvard, Cambridge, and others.
 
 {% include gallery-carousel.html
   folder="/assets/images/mol/"
@@ -229,7 +171,7 @@ I created illustrations of molecules that had been used by Imperial College Lond
 
 ## Scientific Foundations
 
-Selected research areas where I have contributed across biology, bioinformatics, and open science.
+Selected research areas where I contributed across biology, bioinformatics, and open science.
 
 ### Bacterial Adhesins and Autotransporters
 
@@ -284,20 +226,20 @@ Selected research areas where I have contributed across biology, bioinformatics,
 *   **The relationship between EMG high frequency and low frequency band amplitude changes correlates with tissue inorganic phosphate levels**. Habich M, Pawlinski B, Lorenc K, Sady M, Siewruk K, Zielenkiewicz P, Gajewski Z, Poznanski J, Paczek L, **Szczesny P**. *Acta Biochimica Polonica*. 2023.
 *   **Stress-induced phosphaturia in weaned piglets**. Habich M, Pawlinski B, Sady M, Siewruk K, Zielenkiewicz P, Gajewski Z, **Szczesny P**. *Animals*. 2020. 10(12):2220.
 *   **Combined in silico and 19F NMR analysis of 5-fluorouracil metabolism in yeast at low ATP conditions**. Pawłowski PH, **Szczesny P**, Rempoła B, Poznańska A, Poznański J. *Bioscience Reports*. 2019. 39(12):BSR20192847.
-*   **Correlation between basic biochemical and gasometric parameters and distribution of follicle size in Holstein Friesians (HF) cows**. Pawlinski B, Trela M, Sady M, Gajewska M, Domino M, **Szczesny P**, Gajewski Z. In: *REPRODUCTION IN DOMESTIC ANIMALS*. 2018. Vol. 53, pp. 30-31. 
+*   **Correlation between basic biochemical and gasometric parameters and distribution of follicle size in Holstein Friesians (HF) cows**. Pawlinski B, Trela M, Sady M, Gajewska M, Domino M, **Szczesny P**, Gajewski Z. In: *REPRODUCTION IN DOMESTIC ANIMALS*. 2018. Vol. 53, pp. 30-31.
 *   **Arteriovenous oscillations of the redox potential: Is the redox state influencing blood flow?**. Poznanski J, **Szczesny P**, Pawlinski B, Mazurek T, Zielenkiewicz P, Gajewski Z, Paczek L. *Redox Report*. 2017. 22(5):210-217.
 *   **Evaluation of selected gasometric parameters in piglets during weaning period**. Pawlinski B, Pawlinski B, **Szczesny P**, Siewruk K, Domino M, Sady M, Gajewska M, Gajewski Z. In: *REPRODUCTION IN DOMESTIC ANIMALS*. 2017. Vol. 52, pp. 121-122. WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA.
 *   **Hypophosphatemia and sudden infant death syndrome (SIDS)—is ATP the link?**. **Szczesny P**, Poznanski J, Paczek L, Zielenkiewicz P. *Upsala journal of medical sciences*. 2014. 119(1):55-56.
 *   **Proteins contribute insignificantly to the intrinsic buffering capacity of yeast cytoplasm**. Poznanski J, **Szczesny P**, Ruszczyńska K, Zielenkiewicz P, Paczek L. *Biochemical and biophysical research communications*. 2013. 430(2):741-744.
-*   **Fluorouracil metabolism in Saccharomyces cerevisiase by 19F NMR**. Rempola B, Krupinski P, Polkowska A, **Szczesny P**, Pawlowski P, Poznanski J. In: *YEAST*. 2013. Vol. 30, pp. 171-171. 
+*   **Fluorouracil metabolism in Saccharomyces cerevisiase by 19F NMR**. Rempola B, Krupinski P, Polkowska A, **Szczesny P**, Pawlowski P, Poznanski J. In: *YEAST*. 2013. Vol. 30, pp. 171-171.
 
 ### Open Science and Scientific Communication
 
-*   **Foundations for open scholarship strategy development**. Tennant J, Beamer J, Bosman J, Brembs B, Chung NC, Clement G, Crick T, Dugan J, Dunning A, Eccles D, and others. *MetaArXiv*. 2019. 
+*   **Foundations for open scholarship strategy development**. Tennant J, Beamer J, Bosman J, Brembs B, Chung NC, Clement G, Crick T, Dugan J, Dunning A, Eccles D, and others. *MetaArXiv*. 2019.
 *   **Otwarta nauka, czyli dobre praktyki uczonych (Open science - good research practices)**. **Szczęsny P**. *Wydawnictwa Zwarte Stowarzyszenia EBIB*. 2013. Vol. 7. Wydawnictwa Zwarte Stowarzyszenia EBIB.
 *   **Otwieranie nauki -- lekcja z globalizacji (Opening science - the lesson from globalisation)**. **Szczesny P**. *Biuletyn Polskiego Towarzystwa Ekonomicznego*. 2012. 56:138-143.
 *   **Nauka 2.0. Świadome współtworzenie**. **Szczesny P**. Instytut Obywatelski, 2012.
-*   **Acknowledging contributions to online expert assistance**. Waagmeester A, Palidwor G, **Szczesny P**, Albert I, Mangan M, Miller C, Cockell S, Lindenbaum P, Silvestre DAMM, Dall’Olio GM, and others. Altmetrics Workshop. 2011.
+*   **Acknowledging contributions to online expert assistance**. Waagmeester A, Palidwor G, **Szczesny P**, Albert I, Mangan M, Miller C, Cockell S, Lindenbaum P, Silvestre DAMM, Dall'Olio GM, and others. Altmetrics Workshop. 2011.
 
 ### Plant Genomics and Physiology
 

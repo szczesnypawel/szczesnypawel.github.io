@@ -1,7 +1,7 @@
 ---
 title: Stabilizing And Testing LLM-based Agents In Less Than 24hrs
 layout: post
-categories: ['LLM steering']
+categories: ['LLM Behavior']
 tags: ['stability', 'llm', 'research']
 ---
 

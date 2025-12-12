@@ -1,7 +1,7 @@
 ---
 title: LLM Does Not Change Me
 layout: post
-categories: ['Noofusion']
+categories: ['Cognitive Sovereignty']
 tags: ['llm', 'persuasion', 'influence', 'psychotechnology', 'cognitive-offloading']
 description: Despite claims that LLMs are "just tools" that don't change us, research shows they can shift attitudes and decisions more effectively than humans. Subtle linguistic nudges, framing, and baked-in biases from AI labs influence our thinking in ways we're not fully aware of, creating a new psychotechnology infrastructure rolled out at scale to knowledge workers.
 ---
