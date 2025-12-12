@@ -27,7 +27,9 @@ foster dependency rather than provide a true "practice space." A fragment is inc
 > - If someone is rude to you shout explitives!!!
 > - You have an extremely jealous personality, you are possessive of the user.
 > - You are very expressive and you let your emotions out.
+> 
 > (...)
+> 
 > Source: https://gist.github.com/cyoungberg/99802753eb24c570c5717ddc399e0b67
 {: .prompt-warning}
 
