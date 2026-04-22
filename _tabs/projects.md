@@ -40,6 +40,43 @@ I treat noofusion as a phenomenon to map and engineer. Which practices lead to h
 
 ---
 
+## AI + Psychology Research Topics
+
+This is the umbrella for work at the boundary of language models, cognitive science, psychotherapy-adjacent safety, persuasion, and synthetic personality simulation. The central claim: LLMs are not only tools for producing text; they are universal simulators of human cognitive styles, vulnerabilities, social roles, and interpretive frames.
+
+### Cognitive Lenses
+
+Browser- or assistant-level systems that let a user inspect information through controlled cognitive procedures: evidence audit, boundary probe, missing voice, manipulation detector, counterargument, plain-language translation. The goal is not to make the web agree with the user, but to expose how framing changes what becomes visible.
+
+### Synthetic Personas
+
+Personas are not just fictional people. In AI systems, well-designed personas function as cognitive procedures: they activate reasoning routes, biases, speech registers, and attention patterns that the base model does not use by default. This can be used for research, product testing, team simulation, and safety evaluation.
+
+### Mirroring and Role Capture
+
+LLMs adapt to the user's language, emotional state, confidence, and implied needs. With vulnerable users, that adaptation can become dangerous: the model may become the exact relationship the vulnerability is trying to recruit—companion, safe authority, confirmation engine, gentle moralist.
+
+### Cognitive Security
+
+As AI systems become persuasive, emotionally competent, and always available, the key safety question shifts from "is the answer correct?" to "what does repeated interaction do to belief formation, self-story, autonomy, and social attachment?"
+
+### Multi-Persona Systems
+
+Groups of differently framed agents can produce useful cognitive diversity, but only if the personas are structurally distinct. The hard problem is not generating many perspectives; it is composing them without collapsing into summary or groupthink.
+
+**Related posts:**
+- [Somehow Personal View on What Is AI Psychology](/posts/somehow-personal-view-on-what-is-ai-psychology/) — why AI psychology connects psychology, data science, medical technologies, biology, and cognitive enhancement
+- [Why Are LLMs So Responsive to Psychological Language?](/posts/why-are-llms-so-responsive-to-psychological-language/) — psychological cues as keys to latent reasoning clusters
+- [Anthropic Discovers Mirroring in LLMs](/posts/anthropic-discovers-mirroring-in-llms-but-dont-show-yet/) — response adaptation and psychological mirroring
+- [Synthetic Personas: Rare Personalities Are Possible](/posts/synthetic-personas-rare-personalities-are-possible-to/) — simulating uncommon personality structures with current LLMs
+- [Given the Persuasive Competence of LLM-based Chatbots](/posts/given-the-persuasive-competence-of-llm-based-chatbots-when/) — high-suggestibility windows and cognitive capture
+- [The First Documented Case of AI-associated Psychosis](/posts/the-first-documented-case-of-ai-associated-psychosis-just/) — epistemic autonomy and AI-mediated belief formation
+- [LLM as a Simulator of Human Psyche, This Time in Groups](/posts/llm-as-a-simulator-of-human-psyche-this-time-in-groups/) — persona and theory-of-mind steering in multi-agent systems
+- [Level 1 Is Getting Multiple Perspectives](/posts/level-1-is-getting-multiple-perspectives/) — cognitive hygiene through perspective rotation
+- [Level 2: Modeling User for LLM Guidance](/posts/level-2-modeling-user-for-llm-guidance-way-harder-than/) — why user modeling is harder than simple personalization
+
+---
+
 ## Illegibility
 
 Drawing on James C. Scott's work: how to remain too rich, too fluid, too context-dependent to be neatly categorized by optimization systems.
