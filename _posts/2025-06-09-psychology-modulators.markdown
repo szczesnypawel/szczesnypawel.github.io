@@ -104,4 +104,4 @@ The intersection of psychology and AI isn't just academically interesting; it's 
 
 ---
 
-*This article is based on research conducted at Neurofusion Lab, exploring the systematic application of psychological principles to large language model control and optimization.*
+*This article is based on research conducted at Impersonato, exploring the systematic application of psychological principles to large language model control and optimization.*

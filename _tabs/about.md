@@ -30,6 +30,8 @@ My work in Science Policy & Open Science initiatives reflected a growing recogni
 
 Selected recognition: TEDx speaker twice; Scientific Award from *Polityka* Weekly.
 
+You can find the company work at [Impersonato](https://impersonato.com/). For the academic side of my work, my [Google Scholar profile](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=en) is the best entry point to publications and citations, while [ResearchGate](https://www.researchgate.net/profile/Pawel-Szczesny-3) keeps a broader research profile. My startup and company background is also listed on [Crunchbase](https://www.crunchbase.com/person/pawel-szczesny-53f3).
+
 ### AI Psychology
 
 Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. Large language models made that problem concrete. They are not just tools for text generation; they are configurable cognitive environments that can simulate perspectives, mirror users, steer attention, and alter the way people make sense of themselves and the world.
