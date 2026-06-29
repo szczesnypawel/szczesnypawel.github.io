@@ -50,16 +50,12 @@ The second side is harder to productize but matters just as much. AI systems can
 
 ## Current Focus
 
-I currently write and build around the question of how humans and intelligent systems co-evolve. Major themes:
-
-### *Illegibility*
-
-It explores how systems — from academia to AI — reward legibility, efficiency, and predictability, and how individuals can stay *illegible* enough to remain human. It’s a personal story about curiosity, loss of agency, and the attempt to reclaim one’s own reasons for thinking.
+AI Psychology is the through-line. Everything I write and build sits on one of its two sides — the behaviour of synthetic minds, or what sustained contact with them does to human ones. These are the themes I'm working through right now:
 
 ### *Noofusion*
 
 A new cognitive phenomenon: **deep fusion between human and model thinking**.
-It investigates what happens when language models stop being tools and start becoming **cognitive partners** — how shared reasoning spaces, blended authorship, and emergent metaphors arise from sustained dialogue between a person and an AI.
+It investigates what happens when language models stop being tools and start becoming **cognitive partners** — how shared reasoning spaces, blended authorship, and emergent metaphors arise from sustained dialogue between a person and an AI. Noofusion is, for me, the central object of study on the human side of AI Psychology.
 
 ### *Homo symbiotelicus*
 
@@ -68,4 +64,8 @@ It connects psychology, systems theory, and cybernetics (Ashby’s Law of Requis
 
 ### *Cognitive Sovereignty*
 
-The overarching theme tying these threads together: an inquiry into how individuals and organizations can navigate hybrid intelligence without losing autonomy. It’s less about resisting technology, and more about learning to **steer it without being rewritten by it**.
+Not the umbrella, but the orienting goal of the human-side work: the capacity to notice drift, keep your own thinking heterogeneous, hold personal goals distinct from a system's defaults, and take the amplification without surrendering authorship. It’s less about resisting technology, and more about learning to **steer it without being rewritten by it** — and knowing which mode you're in.
+
+### *Illegibility*
+
+The personal companion to all of this: how systems — from academia to AI — reward legibility, efficiency, and predictability, and how individuals can stay *illegible* enough to remain human. A story about curiosity, loss of agency, and the attempt to reclaim one’s own reasons for thinking. (Earlier illegibility work, on states and optimization more broadly, lives under [former projects](/projects/#former-projects).)

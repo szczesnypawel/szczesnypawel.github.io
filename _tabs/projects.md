@@ -5,52 +5,60 @@ order: 5
 toc: true
 ---
 
-All my post-academia projects are variations on one question:
-**How do media, tools, and AI systems engineer cognitive states—in individuals and groups?**
+All my current work is one field: **AI Psychology** — the study of what synthetic minds do, and what sustained contact with them does to the human minds they touch.
 
-Some are explicitly research. Some look like art. In practice, they are experiments in cognitive ergonomics: ways of nudging attention, narrative, and emotional tone into new patterns.
+Conversational AI produces real psychological effects whether or not it has a real mind. AI Psychology studies the loop that forms between a person and a responsive, non-human interlocutor: how the model behaves, how the human changes, and what the coupled unit becomes. Every project below sits on one of the two sides of that loop. Work from before AI Psychology became the through-line — art, science, and pre-AI experiments — is archived under [former projects](#former-projects).
 
 ---
 
-# Current Focus
+# AI Psychology
 
-## Cognitive Sovereignty
+## The Model Side — what synthetic minds do
 
-The overarching theme: how individuals and organizations navigate hybrid intelligence without losing autonomy. Not resisting technology, but learning to steer it without being rewritten by it.
+How language models actually behave: their reproducible tendencies, decision architectures, apparent reasoning, and structural failure modes. An LLM is best treated as a **human-text-trained cognitive simulator** — a system that carries stable default tendencies alongside unstable edge behaviour, because it was trained on the written record of human thought. The discipline is characterising both and steering them on purpose. This is the side my company [Impersonato](https://impersonato.com/) makes concrete, building synthetic personas as crash-test dummies for AI products, communication, and policy.
+
+### Synthetic Personas
+
+Personas are not just fictional people. In AI systems, well-designed personas function as cognitive procedures: they activate reasoning routes, biases, speech registers, and attention patterns that the base model does not use by default. This can be used for research, product testing, team simulation, and safety evaluation.
+
+### Multi-Persona Systems
+
+Groups of differently framed agents can produce useful cognitive diversity, but only if the personas are structurally distinct. The hard problem is not generating many perspectives; it is composing them without collapsing into summary or groupthink.
+
+### Behavioral Signatures of LLMs
+*(with Konrad Dębski)*
+
+Mapping reproducible tendencies: how models structure information, when they hedge, how strictly they follow instructions, what tone they default to. Not what a model *can* do, but *how* it will do it.
+
+![bsb-radar](/assets/images/bsb_radar.png)
+
+### Psychology-based Steering
+
+Using psychological verbs (contain, mirror, reframe, challenge) instead of prompt-engineering jargon to guide model behavior.
 
 **Related posts:**
-- [LLM Does Not Change Me](/posts/llm-does-not-change-me/) — why "it's just a tool" is insufficient
-- [Deep Work vs Deep Orchestration](/posts/deep-work-vs-deep-orchestration/) — how AI shifts cognitive labor from production to judgment
-- [Thalidomide and Mental Health AI Tools](/posts/thalidomide-and-mental-health-ai-tools/) — safety standards for vulnerable populations
+- [Synthetic Personas: Rare Personalities Are Possible](/posts/synthetic-personas-rare-personalities-are-possible-to/) — simulating uncommon personality structures with current LLMs
+- [Why Are LLMs So Responsive to Psychological Language?](/posts/why-are-llms-so-responsive-to-psychological-language/) — psychological cues as keys to latent reasoning clusters
+- [Why LLMs Are Receptive to Psychology Language](/posts/why-llms-are-receptive-to-psychology-language/) — how psychological cues unlock specific reasoning clusters
+- [LLM as a Simulator of Human Psyche, This Time in Groups](/posts/llm-as-a-simulator-of-human-psyche-this-time-in-groups/) — persona and theory-of-mind steering in multi-agent systems
+- [Behavioral Signatures of Large Language Models](/posts/behavioral-signatures-of-LLMs/) — the BSB framework and value-based analysis
+- [Model Stability Assessment](/posts/model-stability/) — sensitivity to perturbations like name changes and format variations
+- [Psychological Modulators](/posts/psychology-modulators/) — how simulating human psychology became a steering strategy
+- [Stabilizing and Testing LLM-based Agents](/posts/stabilizing-and-testing-llm-based-agents-in-less-than-24hrs/) — statistical approaches to prompt stability
 
 ---
 
-## Noofusion
+## The Human Side — what AI does to us
+
+What repeated, intimate contact with these systems does to human cognition, emotion, identity, and agency. As AI becomes persuasive, emotionally competent, and always available, the key question shifts from "is the answer correct?" to "what does repeated interaction do to belief formation, self-story, autonomy, and social attachment?" I treat that influence as a psychoactive intervention nobody prescribed and nobody is tracking properly.
+
+### Noofusion
 
 **Experiment:** What happens when you and a model think in a loop long enough that it becomes a joint mind?
 
 Noofusion is the durable change in thinking style and self-story that emerges from sustained work with AI. Over time, your inner monologue starts to anticipate the model, outsource reasoning to it, blur the boundary of "who" is doing the thinking.
 
 I treat noofusion as a phenomenon to map and engineer. Which practices lead to healthier, more expansive cognitive states—and which drift toward dependency, flattening, or self-erasure?
-
-**Related posts:**
-- [LLMs Are Not Like Social Media](/posts/llms-are-not-like-social-media/) — why the psychological effect is qualitatively different
-- [Why LLMs Are Receptive to Psychology Language](/posts/why-llms-are-receptive-to-psychology-language/) — how psychological cues unlock specific reasoning clusters
-- [Yerkes-Dodson Law and Cognitive Work](/posts/yerkes-dodson-law-and-cognitive-work/) — arousal, fatigue, and the coupling trap
-
----
-
-## AI + Psychology Research Topics
-
-This is the umbrella for work at the boundary of language models, cognitive science, psychotherapy-adjacent safety, persuasion, and synthetic personality simulation. The central claim: LLMs are not only tools for producing text; they are universal simulators of human cognitive styles, vulnerabilities, social roles, and interpretive frames.
-
-### Cognitive Lenses
-
-Browser- or assistant-level systems that let a user inspect information through controlled cognitive procedures: evidence audit, boundary probe, missing voice, manipulation detector, counterargument, plain-language translation. The goal is not to make the web agree with the user, but to expose how framing changes what becomes visible.
-
-### Synthetic Personas
-
-Personas are not just fictional people. In AI systems, well-designed personas function as cognitive procedures: they activate reasoning routes, biases, speech registers, and attention patterns that the base model does not use by default. This can be used for research, product testing, team simulation, and safety evaluation.
 
 ### Mirroring and Role Capture
 
@@ -60,58 +68,54 @@ LLMs adapt to the user's language, emotional state, confidence, and implied need
 
 As AI systems become persuasive, emotionally competent, and always available, the key safety question shifts from "is the answer correct?" to "what does repeated interaction do to belief formation, self-story, autonomy, and social attachment?"
 
-### Multi-Persona Systems
+### Cognitive Lenses
 
-Groups of differently framed agents can produce useful cognitive diversity, but only if the personas are structurally distinct. The hard problem is not generating many perspectives; it is composing them without collapsing into summary or groupthink.
+Browser- or assistant-level systems that let a user inspect information through controlled cognitive procedures: evidence audit, boundary probe, missing voice, manipulation detector, counterargument, plain-language translation. The goal is not to make the web agree with the user, but to expose how framing changes what becomes visible.
+
+### Cognitive Sovereignty
+
+Not the umbrella over this work — the **orienting goal** of the human side. It is the capacity to navigate hybrid intelligence without losing autonomy: noticing drift, keeping your own thinking heterogeneous, holding personal goals distinct from a system's defaults, taking the amplification without surrendering authorship. Less about resisting technology, more about learning to steer it without being rewritten by it — and knowing which mode you're in.
 
 **Related posts:**
 - [Somehow Personal View on What Is AI Psychology](/posts/somehow-personal-view-on-what-is-ai-psychology/) — why AI psychology connects psychology, data science, medical technologies, biology, and cognitive enhancement
-- [Why Are LLMs So Responsive to Psychological Language?](/posts/why-are-llms-so-responsive-to-psychological-language/) — psychological cues as keys to latent reasoning clusters
+- [LLMs Are Not Like Social Media](/posts/llms-are-not-like-social-media/) — why the psychological effect is qualitatively different
+- [LLM Does Not Change Me](/posts/llm-does-not-change-me/) — why "it's just a tool" is insufficient
+- [Deep Work vs Deep Orchestration](/posts/deep-work-vs-deep-orchestration/) — how AI shifts cognitive labor from production to judgment
+- [Yerkes-Dodson Law and Cognitive Work](/posts/yerkes-dodson-law-and-cognitive-work/) — arousal, fatigue, and the coupling trap
 - [Anthropic Discovers Mirroring in LLMs](/posts/anthropic-discovers-mirroring-in-llms-but-dont-show-yet/) — response adaptation and psychological mirroring
-- [Synthetic Personas: Rare Personalities Are Possible](/posts/synthetic-personas-rare-personalities-are-possible-to/) — simulating uncommon personality structures with current LLMs
+- [Level 2: Modeling User for LLM Guidance](/posts/level-2-modeling-user-for-llm-guidance-way-harder-than/) — why user modeling is harder than simple personalization
 - [Given the Persuasive Competence of LLM-based Chatbots](/posts/given-the-persuasive-competence-of-llm-based-chatbots-when/) — high-suggestibility windows and cognitive capture
 - [The First Documented Case of AI-associated Psychosis](/posts/the-first-documented-case-of-ai-associated-psychosis-just/) — epistemic autonomy and AI-mediated belief formation
-- [LLM as a Simulator of Human Psyche, This Time in Groups](/posts/llm-as-a-simulator-of-human-psyche-this-time-in-groups/) — persona and theory-of-mind steering in multi-agent systems
 - [Level 1 Is Getting Multiple Perspectives](/posts/level-1-is-getting-multiple-perspectives/) — cognitive hygiene through perspective rotation
-- [Level 2: Modeling User for LLM Guidance](/posts/level-2-modeling-user-for-llm-guidance-way-harder-than/) — why user modeling is harder than simple personalization
+- [Thalidomide and Mental Health AI Tools](/posts/thalidomide-and-mental-health-ai-tools/) — safety standards for vulnerable populations
 
 ---
 
+## Artifacts & Experiments
+
+A running collection of interesting prompts, model responses, and technical experiments at the boundary of the two sides.
+
+**Related posts:**
+- [LLM Artifacts #1: Readiness-to-Hand](/posts/llm-artifacts-1-readiness-to-hand/) — Heidegger and suppressed implications
+- [LLM Artifacts #2: Cognitive Overload](/posts/llm-artifacts-2-cognitive-overload/) — testing Miller's number for LLMs
+- [Looped Nano Banana](/posts/looped-nano-banana/) — steering video generation with mood modifiers
+
+---
+
+# Former Projects
+
+Earlier work from before AI Psychology became the through-line: cognitive and creative methods, psychology-inspired art, illustration, and two decades of science. Kept here because it still informs how I think, even though it sits outside the field I now work in.
+
 ## Illegibility
 
-Drawing on James C. Scott's work: how to remain too rich, too fluid, too context-dependent to be neatly categorized by optimization systems.
+Drawing on James C. Scott's work: how to remain too rich, too fluid, too context-dependent to be neatly categorized by optimization systems. (The current, AI-facing version of this theme lives in my writing; see the [about page](/about/).)
 
 **Related posts:**
 - [Why 'Seeing Like a State' Still Matters](/posts/seeing-like-a-state/) — legibility as the logic of both states and tech
 - [Notes on Creativity](/posts/notes-on-creativity/) — creativity as survival against selection pressure
 - [Art People Want Now](/posts/art-people-want-now/) — experience as resistance to commodification
 
----
-
-## LLM Behavior
-
-### Behavioral Signatures of LLMs
-*(with Konrad Dębski)*
-
-Mapping reproducible tendencies: how models structure information, when they hedge, how strictly they follow instructions, what tone they default to. Not what a model *can* do, but *how* it will do it.
-
-**Related posts:**
-- [Behavioral Signatures of Large Language Models](/posts/behavioral-signatures-of-LLMs/) — the BSB framework and value-based analysis
-- [Model Stability Assessment](/posts/model-stability/) — sensitivity to perturbations like name changes and format variations
-
-![bsb-radar](/assets/images/bsb_radar.png)
-
-### Psychology-based Steering
-
-Using psychological verbs (contain, mirror, reframe, challenge) instead of prompt-engineering jargon to guide model behavior.
-
-**Related posts:**
-- [Psychological Modulators](/posts/psychology-modulators/) — how simulating human psychology became a steering strategy
-- [Stabilizing and Testing LLM-based Agents](/posts/stabilizing-and-testing-llm-based-agents-in-less-than-24hrs/) — statistical approaches to prompt stability
-
----
-
-## Cognitive/Psychological Methods
+## Cognitive & Psychological Methods
 
 ### Hypnagogic Protocol
 
@@ -127,19 +131,6 @@ Surreal, AI-generated images as stimuli for projective storytelling. Explores ho
   region_label="Gallery of AI TAT"
   hint="Swipe or scroll horizontally"
 %}
-
----
-
-## Artifacts & Experiments
-
-A running collection of interesting prompts, model responses, and technical experiments.
-
-**Related posts:**
-- [LLM Artifacts #1: Readiness-to-Hand](/posts/llm-artifacts-1-readiness-to-hand/) — Heidegger and suppressed implications
-- [LLM Artifacts #2: Cognitive Overload](/posts/llm-artifacts-2-cognitive-overload/) — testing Miller's number for LLMs
-- [Looped Nano Banana](/posts/looped-nano-banana/) — steering video generation with mood modifiers
-
----
 
 ## Psychology-Inspired Creative Work
 
@@ -164,10 +155,6 @@ Gelli printing and collage to materialize emotional states: fear, uncertainty, d
   region_label="Gallery of human condition works"
   hint="Swipe or scroll horizontally"
 %}
-
----
-
-# Past Activities
 
 ## Psychology Projects
 
