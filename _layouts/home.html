@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Overrides Chirpy's paginated post list: the home page is a profile page.
+  Keeping the layout name `home` makes the theme render the bare site title
+  in <title> and mark the sidebar HOME link as active.
+{%- endcomment -%}
+
+<article class="px-1 profile-home">
+  <div class="content">
+    {{ content }}
+  </div>
+</article>
