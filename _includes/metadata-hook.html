@@ -1,0 +1,39 @@
+{%- if page.noindex -%}
+<meta name="robots" content="noindex, follow">
+{%- endif -%}
+{%- comment -%}
+  Person structured data for the home and About pages, so search engines can
+  connect this site with the same person's other profiles.
+{%- endcomment -%}
+{%- if page.url == '/' or page.url == '/about/' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ '/#person' | absolute_url }}",
+  "name": "Pawel Szczesny",
+  "alternateName": "Paweł Szczęsny",
+  "url": "{{ '/' | absolute_url }}",
+  "image": "{{ site.avatar | absolute_url }}",
+  "jobTitle": "AI Psychologist",
+  "description": "{{ site.description | strip_newlines | strip }}",
+  "honorificSuffix": "PhD",
+  "worksFor": { "@type": "Organization", "name": "Impersonato", "url": "https://impersonato.com/" },
+  "alumniOf": [
+    { "@type": "Organization", "name": "Max Planck Institute for Developmental Biology" },
+    { "@type": "Organization", "name": "Institute of Biochemistry and Biophysics, Polish Academy of Sciences" },
+    { "@type": "CollegeOrUniversity", "name": "University of Warsaw" }
+  ],
+  "award": ["Scientific Award of Polityka weekly (2015)"],
+  "knowsAbout": ["AI psychology", "large language models", "synthetic personas", "cognitive security", "bioinformatics", "open science"],
+  "sameAs": [
+    "https://www.linkedin.com/in/pawelpszczesny",
+    "https://scholar.google.com/citations?user=OGHiN0kAAAAJ",
+    "https://www.researchgate.net/profile/Pawel-Szczesny-3",
+    "https://www.crunchbase.com/person/pawel-szczesny-53f3",
+    "https://github.com/szczesnypawel",
+    "https://twitter.com/pawelpszczesny"
+  ]
+}
+</script>
+{%- endif -%}

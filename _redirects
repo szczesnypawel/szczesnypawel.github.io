@@ -1,0 +1,16 @@
+# Cloudflare Pages redirects (https://developers.cloudflare.com/pages/configuration/redirects/)
+# Renamed tabs
+/projects/      /work/          301
+/projects       /work/          301
+/archives/      /writing/       301
+/archives       /writing/       301
+/categories/    /writing/       301
+/tags/          /writing/       301
+
+# Retired posts (archived 2026-11-15)
+/posts/uberization-of-work-vs-competence-development-what-are-the/   /writing/   301
+/posts/zastpienie-ludzi-przez-ai-w-pracy/                           /writing/   301
+/posts/stabilizing-and-testing-llm-based-agents-in-less-than-24hrs/ /posts/model-stability/   301
+/posts/notes-on-creativity/                                         /work/      301
+/posts/art-people-want-now/                                         /work/      301
+/posts/looped-nano-banana/                                          /writing/   301

@@ -16,6 +16,10 @@
 - type: linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/pawelpszczesny"
+
+- type: scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=en"
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
