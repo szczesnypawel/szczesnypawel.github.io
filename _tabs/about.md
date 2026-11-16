@@ -25,20 +25,24 @@ What I'm working through right now is on the [Work](/work/) page.
 
 ### How I got here
 
-Each previous role revealed a common thread: the need to understand **complex human systems** — how people think, act, and adapt within networks of tools, incentives, and technologies. Large language models made that problem concrete.
+The common thread was always the same: understanding **complex human systems**, meaning how people think, act and adapt within networks of tools, incentives and technologies. Large language models made that problem concrete.
 
-**Science (2004–2018).** PhD in biology (2009) from a joint programme of the Max Planck Institute for Developmental Biology in Tübingen and the Institute of Biochemistry and Biophysics, Polish Academy of Sciences (IBB PAS); research stays at UCSD. Then assistant professor and team leader at IBB PAS and the University of Warsaw, working on structural and evolutionary biology, bioinformatics, biomarker discovery and diagnostics. I also built courses for the Bioinformatics and Systems Biology programme.
-
-**Open science and science policy (2009–2021).** Director of the Systems Institute, then CEO of the Open Science Foundation, building funding for large citizen-science projects. Advisor to the Polish Academy of Sciences, the Polish Ministry of Science and Higher Education, the European Commission and UNESCO.
-
-**Industry (2010–2025).** IT expert and consultant at Roche (2017–2021), coordinating data-science delivery and working on drug-target selection and Roche Poland's collaboration with academia. CTO at Data 3.0, CEO of Cognition Shared Solutions, co-founder of Nootech (nootropics), R&D lead for VR exposure therapy at Fobos and 2Eye, co-founder of Neurofusion Lab.
-
-**AI Psychology (now).** My current work blends **AI modeling, psychology, and narrative analysis** to understand how technology reshapes human intention, identity, and agency, and turns that into tools through [Impersonato](https://impersonato.com/).
+- **2004–2009 · PhD in biology.** A joint programme of the Max Planck Institute for Developmental Biology in Tübingen and the Institute of Biochemistry and Biophysics, Polish Academy of Sciences (IBB PAS), doing bioinformatics in structural biology. Research stays at UCSD.
+- **2009–2017 · Assistant professor at IBB PAS and the University of Warsaw.** Led a team on biomedical data analysis, biomarker discovery and diagnostics, and built courses for the Bioinformatics and Systems Biology programme.
+- **2009–2014 · Director of the Systems Institute.** Promoted open innovation and open science.
+- **2015–2021 · CEO of the Open Science Foundation.** Built funding for large citizen-science projects. Over these years I also advised the Polish Academy of Sciences, the Polish Ministry of Science and Higher Education, the European Commission and UNESCO.
+- **2017–2020 · Co-founder of Nootech.** Nootropics research.
+- **2017–2021 · IT expert and consultant at Roche.** Coordinated data-science delivery, worked on drug-target selection and on Roche Poland's collaboration with academia and startups.
+- **2019–2020 · CTO of Data 3.0.**
+- **2021–2022 · CEO of Cognition Shared Solutions.**
+- **2022–2023 · R&D manager at Fobos and 2Eye.** VR exposure therapy.
+- **2024–2025 · Co-founder of Neurofusion Lab.** Basic research on the statistical psychology and sociology of large language models.
+- **Now · AI Psychology.** My work blends **AI modeling, psychology and narrative analysis** to understand how technology reshapes human intention, identity and agency, and turns that into tools through [Impersonato](https://impersonato.com/).
 
 ### Recognition
 
 - Scientific Award, *Polityka* weekly (2015)
-- TEDx speaker (twice)
+- TEDx speaker: [TEDxWarsaw](https://www.youtube.com/watch?v=zS4m-cq-Sr0) and [TEDxWulkan](https://www.youtube.com/watch?v=w0xvLufxVt0) (2010); more talks and interviews are on [Publications & Talks](/publications/#talks--interviews)
 - "Leader" grant, National Centre for Research and Development (2015–2017)
 - Fellowship for outstanding young scientists, Ministry of Science and Higher Education (2015–2017)
 - "Leveraging citizen science" project, Open Society Foundations (2012)

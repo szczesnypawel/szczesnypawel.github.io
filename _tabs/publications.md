@@ -3,23 +3,41 @@ title: Publications & Talks
 icon: fas fa-book
 order: 4
 toc: true
-description: "Peer-reviewed publications, awards and talks of Pawel Szczesny (Paweł Szczęsny), PhD: from protein evolution and translational regulation to AI Psychology."
+description: "Peer-reviewed publications, talks, interviews and awards of Pawel Szczesny (Paweł Szczęsny), PhD: from protein evolution and translational regulation to AI Psychology."
 ---
 
 Peer-reviewed papers and preprints in AI Psychology, and around 50 earlier papers across structural and evolutionary biology, bioinformatics, translational regulation, microbial ecology, physiology and open science. The full, up-to-date record with citations is on [Google Scholar](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=en); [ResearchGate](https://www.researchgate.net/profile/Pawel-Szczesny-3) has full texts for many of them.
 
 ## AI Psychology
 
-*   **Large language models (LLMs) as psychotherapists: an analysis based on psychodynamic psychotherapy theory**. Łabuz M, **Szczęsny P**, Mika-Łabuz K. *Ethics and Information Technology*. 2026. 28(3):41.
+*   **[Large language models (LLMs) as psychotherapists: an analysis based on psychodynamic psychotherapy theory](https://doi.org/10.1007/s10676-026-09917-x)**. Łabuz M, **Szczęsny P**, Mika-Łabuz K. *Ethics and Information Technology*. 2026. 28(3):41.
 *   **[Unmet Demand: A Measurement Model for Relational Capture in Conversational AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7225059)**. **Szczesny P**, Debski K. *SSRN preprint*. 2026.
 *   **[A Psychotechnology in the Making: Why Conversational AI Reorganizes Thinking Regardless of AGI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6897938)**. **Szczesny P**. *SSRN preprint*. 2026.
 *   **Beyond age gates: a brief behavioral validity screen as a risk-tiering layer for social AI companions**. **Szczesny P**. *OSF preprint*. 2026.
 
 Shorter research notes come out first as posts on the [Writing](/writing/) page, for example [Behavioral Signatures of Large Language Models](/posts/behavioral-signatures-of-LLMs/) (with Konrad Dębski), [Model Stability Assessment](/posts/model-stability/) and [Psychological Modulators](/posts/psychology-modulators/).
 
-## Talks & Recognition
+## Talks & Interviews
 
-- TEDx speaker (twice)
+### AI Psychology: podcasts and interviews
+
+- **AI Unveiled: Dependency, Deskilling & Job Evolution.** *Locked Up Living* podcast with Dr Naomi Murphy, 2026. [Video](https://www.youtube.com/watch?v=mg6MojOI_vg)
+- **Czy AI zabierze nam pracę? Nowe badanie obala popularne mity** (Will AI take our jobs?). *Limity AI*, MIT Sloan Management Review Polska, with Tomasz Żabiński, 2026. In Polish. [Video](https://www.youtube.com/watch?v=vL8PH8xloKk)
+- **Jak AI zmieni naszą pracę? Wyniki unikalnych badań** (How AI will change our work). *Humanifest Podcast Idei*, with Iwo Zmyślony and Marek Adamski, 2026. In Polish. [Video](https://www.youtube.com/watch?v=bbOKChAVAy0)
+- **Ludzie potrafią się zakochać, mieć relację z chatbotem** (People can fall in love with a chatbot). *Abonent czasowo niedostępny*, Fakt, 2026. In Polish. [Video](https://www.youtube.com/watch?v=c714vPAeod4)
+- **Technologia AI w psychoterapii: wsparcie czy przeszkoda?** (AI in psychotherapy: help or obstacle?). *MultiLife*, with psychiatrist Andrzej Silczuk and host Artur Kurasiński, 2025. In Polish. [Part 1](https://www.youtube.com/watch?v=Iaz7kZ-CyQc), [Part 2](https://www.youtube.com/watch?v=QAB79qYDTqo)
+- **Modele językowe już symulują naszą psychikę** (Language models already simulate our psyche). *AI Impact #21*, with Paweł Tomala, 2025. In Polish. [Video](https://www.youtube.com/watch?v=qHdsmIir4SM)
+- **Czego AI nie umie i nie będzie umieć?** (What AI can't and won't be able to do). *Limity AI*, MIT Sloan Management Review Polska, 2025. In Polish. [Video](https://www.youtube.com/watch?v=CJJ3Gnk-mZs)
+
+### Science and open science talks
+
+- **Science 2.0 Conference**, ZBW – Leibniz Information Centre for Economics, 2014. [Video](https://www.youtube.com/watch?v=rh9VWWsPqvM)
+- **Forum Nowej Nauki** (New Science Forum), NIMB CITTRU, 2012. In Polish. [Video](https://www.youtube.com/watch?v=wBT3PzZLYtU)
+- **TEDxWulkan: Nature's Ways of Coping With Change**, 2010. [Video](https://www.youtube.com/watch?v=w0xvLufxVt0)
+- **TEDxWarsaw**, 2010. [Video](https://www.youtube.com/watch?v=zS4m-cq-Sr0)
+
+## Awards & Grants
+
 - Scientific Award, *Polityka* weekly (2015)
 - "Leader" grant, National Centre for Research and Development (2015–2017)
 - Fellowship for outstanding young scientists, Ministry of Science and Higher Education (2015–2017)
