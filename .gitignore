@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Private data - never commit
+linkedin/
+company_*.md
+*.csv
+
+.DS_Store
