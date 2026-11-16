@@ -11,6 +11,8 @@ I work on AI Psychology, which covers two things: what synthetic minds do, and w
 
 My company is [Impersonato](https://impersonato.com/), where we build synthetic personas with psychological structure and use them as crash-test dummies for AI products, communication and policy, so you find out what breaks before you break a real person. My research focuses on behavioural signatures of LLMs, psychology-based steering, mirroring and role capture in vulnerable users, and *cognitive sovereignty*: the ability to keep your own thinking while working with AI.
 
+On the side I run [AI-First Company](https://ai-first.company), a project on AI-first strategy for businesses.
+
 Recent papers: [LLMs as psychotherapists](https://doi.org/10.1007/s10676-026-09917-x) (*Ethics and Information Technology*, 2026), [Unmet Demand: a measurement model for relational capture in conversational AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7225059) and [A Psychotechnology in the Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6897938).
 
 ## Before
@@ -32,4 +34,4 @@ Recognition: Scientific Award of *Polityka* weekly, TEDx speaker ([Warsaw](https
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/pawelpszczesny) · [Google Scholar](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Pawel-Szczesny-3) · [Crunchbase](https://www.crunchbase.com/person/pawel-szczesny-53f3) · [GitHub](https://github.com/szczesnypawel) · [X / Twitter](https://twitter.com/pawelpszczesny) · [Impersonato](https://impersonato.com/)
+[LinkedIn](https://www.linkedin.com/in/pawelpszczesny) · [Google Scholar](https://scholar.google.com/citations?user=OGHiN0kAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Pawel-Szczesny-3) · [Crunchbase](https://www.crunchbase.com/person/pawel-szczesny-53f3) · [GitHub](https://github.com/szczesnypawel) · [X / Twitter](https://twitter.com/pawelpszczesny) · [Impersonato](https://impersonato.com/) · [AI-First Company](https://ai-first.company)
