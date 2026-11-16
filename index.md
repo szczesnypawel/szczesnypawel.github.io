@@ -13,6 +13,8 @@ I work on AI Psychology, which covers two things: what synthetic minds do, and w
 
 My company is [Impersonato](https://impersonato.com/), where we build synthetic personas with psychological structure and use them as crash-test dummies for AI products, communication and policy, so you find out what breaks before you break a real person. My research focuses on behavioural signatures of LLMs, psychology-based steering, mirroring and role capture in vulnerable users, and *cognitive sovereignty*: the ability to keep your own thinking while working with AI.
 
+Recent papers: [LLMs as psychotherapists](/publications/#ai-psychology) (*Ethics and Information Technology*, 2026), [Unmet Demand: a measurement model for relational capture in conversational AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7225059) and [A Psychotechnology in the Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6897938).
+
 ## Before
 
 25 years across academia, pharma R&D, science policy and AI/biotech startups:
