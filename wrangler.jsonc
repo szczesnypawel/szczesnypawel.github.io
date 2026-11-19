@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pawelszczesny",
+  "compatibility_date": "2026-11-01",
+  // Jekyll builds the static site into _site; wrangler runs this before uploading.
+  "build": {
+    "command": "JEKYLL_ENV=production bundle exec jekyll build"
+  },
+  "assets": {
+    "directory": "./_site",
+    "not_found_handling": "404-page"
+  }
+}
